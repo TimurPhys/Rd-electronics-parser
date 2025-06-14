@@ -108,7 +108,7 @@ def data_scrap(pages_count): # Будем передавать сколько с
         count += len(items)
         print(f"Готово на: {math.ceil((i * 100) / pages_count)}%")
 
-    with open("items_list.json", "w", encoding="utf-8") as file:
+    with open("example/items_list.json", "w", encoding="utf-8") as file:
         json.dump(items_list, file, indent=4, ensure_ascii=False)
 
     print(f"Всего просканировано: {count} товаров")
@@ -153,7 +153,7 @@ def main():
         make_document = input("Хочешь ли ты составить все данные в Excel документе? y/n\n")
 
         if (make_document == "y"):
-            path = "items_list.json"
+            path = "example/items_list.json"
             make_excel_document(path)
             print("Документ успешно сохранен!")
         else:
