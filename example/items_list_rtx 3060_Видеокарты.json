@@ -1,0 +1,80 @@
+[
+    {
+        "id": 2,
+        "name": "GeForce RTX 3060 Gaming OC 8GB GDDR6 128bit rev. 2.0",
+        "price": 274.0,
+        "link": "https://www.rdveikals.lv/products/ru/417/509240/sort/5/filter/0_0_0_0/GeForce-RTX-3060-Gaming-OC-8GB-GDDR6-128bit-rev.-2.0-видеокарта.html"
+    },
+    {
+        "id": 3,
+        "name": "GeForce RTX 3060 Ventus 2X OC 12GB GDDR6 192bit",
+        "price": 276.0,
+        "link": "https://www.rdveikals.lv/products/ru/417/363652/sort/5/filter/0_0_0_0/GeForce-RTX-3060-Ventus-2X-OC-12GB-GDDR6-192bit-видеокарта.html"
+    },
+    {
+        "id": 4,
+        "name": "GeForce RTX 3060 Twin Twin Edge 12GB GDDR6 192bit",
+        "price": 295.0,
+        "link": "https://www.rdveikals.lv/products/ru/417/759148/sort/5/filter/0_0_0_0/GeForce-RTX-3060-Twin-Twin-Edge-12GB-GDDR6-192bit-видеокарта.html"
+    },
+    {
+        "id": 5,
+        "name": "GeForce RTX 3060 Gaming OC 12GB GDDR6 192bit rev. 2.0 LHR",
+        "price": 300.0,
+        "link": "https://www.rdveikals.lv/products/ru/417/347112/sort/5/filter/0_0_0_0/GeForce-RTX-3060-Gaming-OC-12GB-GDDR6-192bit-rev.-2.0-LHR-видеокарта.html"
+    },
+    {
+        "id": 6,
+        "name": "GeForce RTX 3060 WindForce OC 12GB GDDR6 192bit",
+        "price": 300.18,
+        "link": "https://www.rdveikals.lv/products/ru/417/450452/sort/5/filter/0_0_0_0/GeForce-RTX-3060-WindForce-OC-12GB-GDDR6-192bit-видеокарта.html"
+    },
+    {
+        "id": 7,
+        "name": "GeForce RTX 3060 WindForce OC 12GB GDDR6 192bit rev. 2.0",
+        "price": 308.29,
+        "link": "https://www.rdveikals.lv/products/ru/417/497255/sort/5/filter/0_0_0_0/GeForce-RTX-3060-WindForce-OC-12GB-GDDR6-192bit-rev.-2.0-видеокарта.html"
+    },
+    {
+        "id": 8,
+        "name": "GeForce RTX 3060 Twin X2 12GB GDDR6 192bit",
+        "price": 312.99,
+        "link": "https://www.rdveikals.lv/products/ru/417/416339/sort/5/filter/0_0_0_0/GeForce-RTX-3060-Twin-X2-12GB-GDDR6-192bit-видеокарта.html"
+    },
+    {
+        "id": 9,
+        "name": "GeForce RTX 3060 Dual OC V2 LHR 12GB GDDR6 192bit",
+        "price": 317.9,
+        "link": "https://www.rdveikals.lv/products/ru/417/388755/sort/5/filter/0_0_0_0/GeForce-RTX-3060-Dual-OC-V2-LHR-12GB-GDDR6-192bit-видеокарта.html"
+    },
+    {
+        "id": 10,
+        "name": "GeForce RTX 3060 V2 OC 12GB GDDR6 192bit",
+        "price": 317.9,
+        "link": "https://www.rdveikals.lv/products/ru/417/423011/sort/5/filter/0_0_0_0/GeForce-RTX-3060-V2-OC-12GB-GDDR6-192bit-видеокарта.html"
+    },
+    {
+        "id": 11,
+        "name": "GeForce RTX 3060 Twin X2 OC LHR 12GB GDDR6 192bit",
+        "price": 332.17,
+        "link": "https://www.rdveikals.lv/products/ru/417/560210/sort/5/filter/0_0_0_0/GeForce-RTX-3060-Twin-X2-OC-LHR-12GB-GDDR6-192bit-видеокарта.html"
+    },
+    {
+        "id": 12,
+        "name": "GeForce RTX 3060 Ti Extreme Gaming 8GB GDDR6X 256bit",
+        "price": 360.0,
+        "link": "https://www.rdveikals.lv/products/ru/417/599323/sort/5/filter/0_0_0_0/GeForce-RTX-3060-Ti-Extreme-Gaming-8GB-GDDR6X-256bit-видеокарта.html"
+    },
+    {
+        "id": 13,
+        "name": "GeForce RTX 3060 Ventus 3X OC 12GB GDDR6 192bit",
+        "price": 424.99,
+        "link": "https://www.rdveikals.lv/products/ru/417/773221/sort/5/filter/0_0_0_0/GeForce-RTX-3060-Ventus-3X-OC-12GB-GDDR6-192bit-видеокарта.html"
+    },
+    {
+        "id": 14,
+        "name": "GeForce RTX Extreme Gaming 3060 12GB GDDR6 192bit",
+        "price": 291.9,
+        "link": "https://www.rdveikals.lv/products/ru/417/751581/sort/5/filter/0_0_0_0/GeForce-RTX-Extreme-Gaming-3060-12GB-GDDR6-192bit-видеокарта.html"
+    }
+]

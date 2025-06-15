@@ -1,0 +1,2534 @@
+[
+    {
+        "id": 2,
+        "name": "AQUA i7-14700F 32GB 500SSD+2TB RTX3060 12GB W11Pro",
+        "price": 1398.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/761494/sort/5/filter/0_0_0_0/AQUA-i7-14700F-32GB-500SSD-2TB-RTX3060-12GB-W11Pro-компьютер.html"
+    },
+    {
+        "id": 3,
+        "name": "AQUA i7-14700F 32GB 2TB SSD+2TB RTX3060 12GB W11Home",
+        "price": 1415.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/761484/sort/5/filter/0_0_0_0/AQUA-i7-14700F-32GB-2TB-SSD-2TB-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 4,
+        "name": "AQUA i7-14700F 32GB 2TB SSD RTX3060 12GB W11Pro",
+        "price": 1418.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/761490/sort/5/filter/0_0_0_0/AQUA-i7-14700F-32GB-2TB-SSD-RTX3060-12GB-W11Pro-компьютер.html"
+    },
+    {
+        "id": 5,
+        "name": "AQUA Ryzen 7 7700X 32GB 2 TB SSD+2TB RTX3060 12GB W11Pro",
+        "price": 1419.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/767458/sort/5/filter/0_0_0_0/AQUA-Ryzen-7-7700X-32GB-2-TB-SSD-2TB-RTX3060-12GB-W11Pro-компьютер.html"
+    },
+    {
+        "id": 6,
+        "name": "AQUA i7-14700F 32GB 1TB SSD+2TB RTX3060 12GB W11Pro",
+        "price": 1421.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/761495/sort/5/filter/0_0_0_0/AQUA-i7-14700F-32GB-1TB-SSD-2TB-RTX3060-12GB-W11Pro-компьютер.html"
+    },
+    {
+        "id": 7,
+        "name": "AQUA Ryzen 7 7700X 32GB 2TB SSD+2TB RTX3060 12GB W11Pro",
+        "price": 1434.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/761284/sort/5/filter/0_0_0_0/AQUA-Ryzen-7-7700X-32GB-2TB-SSD-2TB-RTX3060-12GB-W11Pro-компьютер.html"
+    },
+    {
+        "id": 8,
+        "name": "AQUA i7-14700F 16GB 2TB SSD+2TB RTX3060 12GB W11Pro",
+        "price": 1441.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/761493/sort/5/filter/0_0_0_0/AQUA-i7-14700F-16GB-2TB-SSD-2TB-RTX3060-12GB-W11Pro-компьютер.html"
+    },
+    {
+        "id": 9,
+        "name": "AQUA i7-14700F 32GB 2TB SSD+2TB RTX3060 12GB W11Pro",
+        "price": 1483.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/761496/sort/5/filter/0_0_0_0/AQUA-i7-14700F-32GB-2TB-SSD-2TB-RTX3060-12GB-W11Pro-компьютер.html"
+    },
+    {
+        "id": 10,
+        "name": "Ryzen 7 5700X 16GB 250SSD+2TB RTX3060 12GB no-OS",
+        "price": 841.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/764216/sort/5/filter/0_0_0_0/Ryzen-7-5700X-16GB-250SSD-2TB-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 11,
+        "name": "Ryzen 5 5600X 16GB 250SSD RTX3060 12GB W11Home",
+        "price": 842.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/744732/sort/5/filter/0_0_0_0/Ryzen-5-5600X-16GB-250SSD-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 12,
+        "name": "Ryzen 5 5500 16GB 1TB SSD RTX3060 12GB W11Home",
+        "price": 842.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/745463/sort/5/filter/0_0_0_0/Ryzen-5-5500-16GB-1TB-SSD-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 13,
+        "name": "Ryzen 5 5500 32GB 250SSD RTX3060 12GB W11Home",
+        "price": 843.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/745817/sort/5/filter/0_0_0_0/Ryzen-5-5500-32GB-250SSD-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 14,
+        "name": "Ryzen 7 5700X 32GB 500SSD M.2 NVME RTX3060 12GB no-OS",
+        "price": 844.72,
+        "link": "https://www.rdveikals.lv/products/ru/148/689217/sort/5/filter/0_0_0_0/Ryzen-7-5700X-32GB-500SSD-M.2-NVME-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 15,
+        "name": "i5-12400F 32GB 1TB SSD M.2 NVME RTX3060 12GB no-OS",
+        "price": 846.1,
+        "link": "https://www.rdveikals.lv/products/ru/148/549625/sort/5/filter/0_0_0_0/i5-12400F-32GB-1TB-SSD-M.2-NVME-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 16,
+        "name": "Ryzen 7 5700X 32GB 1TB SSD RTX3060 12GB no-OS",
+        "price": 847.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/764221/sort/5/filter/0_0_0_0/Ryzen-7-5700X-32GB-1TB-SSD-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 17,
+        "name": "i5-12400F 16GB 500SSD M.2 NVME+2TB RTX3060 12GB no-OS",
+        "price": 852.41,
+        "link": "https://www.rdveikals.lv/products/ru/148/549621/sort/5/filter/0_0_0_0/i5-12400F-16GB-500SSD-M.2-NVME-2TB-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 18,
+        "name": "Ryzen 5 5600X 32GB 500SSD+2TB RTX3060 12GB no-OS",
+        "price": 854.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/744718/sort/5/filter/0_0_0_0/Ryzen-5-5600X-32GB-500SSD-2TB-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 19,
+        "name": "Ryzen 7 5700X 16GB 500SSD+2TB RTX3060 12GB no-OS",
+        "price": 854.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/764217/sort/5/filter/0_0_0_0/Ryzen-7-5700X-16GB-500SSD-2TB-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 20,
+        "name": "Ryzen 5 5600X 16GB 500SSD RTX3060 12GB W11Home",
+        "price": 855.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/744733/sort/5/filter/0_0_0_0/Ryzen-5-5600X-16GB-500SSD-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 21,
+        "name": "Ryzen 5 5500 32GB 500SSD RTX3060 12GB W11Home",
+        "price": 856.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/745818/sort/5/filter/0_0_0_0/Ryzen-5-5500-32GB-500SSD-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 22,
+        "name": "Ryzen 7 5700X 16GB 250SSD M.2 NVME+2TB RTX3060 12GB no-OS",
+        "price": 860.75,
+        "link": "https://www.rdveikals.lv/products/ru/148/689233/sort/5/filter/0_0_0_0/Ryzen-7-5700X-16GB-250SSD-M.2-NVME-2TB-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 23,
+        "name": "Ryzen 7 5700X 32GB 1TB SSD M.2 NVME RTX3060 12GB no-OS",
+        "price": 866.96,
+        "link": "https://www.rdveikals.lv/products/ru/148/689237/sort/5/filter/0_0_0_0/Ryzen-7-5700X-32GB-1TB-SSD-M.2-NVME-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 24,
+        "name": "Ryzen 5 5500 16GB 250SSD+2TB RTX3060 12GB W11Home",
+        "price": 872.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/745814/sort/5/filter/0_0_0_0/Ryzen-5-5500-16GB-250SSD-2TB-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 25,
+        "name": "Ryzen 7 5700X 16GB 500SSD M.2 NVME+2TB RTX3060 12GB no-OS",
+        "price": 873.27,
+        "link": "https://www.rdveikals.lv/products/ru/148/689234/sort/5/filter/0_0_0_0/Ryzen-7-5700X-16GB-500SSD-M.2-NVME-2TB-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 26,
+        "name": "i5-12400F 16GB 1TB SSD M.2 NVME+2TB RTX3060 12GB no-OS",
+        "price": 874.65,
+        "link": "https://www.rdveikals.lv/products/ru/148/549622/sort/5/filter/0_0_0_0/i5-12400F-16GB-1TB-SSD-M.2-NVME-2TB-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 27,
+        "name": "i5-12400F 32GB 250SSD M.2 NVME+2TB RTX3060 12GB no-OS",
+        "price": 875.31,
+        "link": "https://www.rdveikals.lv/products/ru/148/549626/sort/5/filter/0_0_0_0/i5-12400F-32GB-250SSD-M.2-NVME-2TB-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 28,
+        "name": "Ryzen 5 5500 16GB 1TB SSD RTX3060 12GB no-OS",
+        "price": 740.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/744722/sort/5/filter/0_0_0_0/Ryzen-5-5500-16GB-1TB-SSD-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 29,
+        "name": "Ryzen 5 5500 32GB 250SSD RTX3060 12GB no-OS",
+        "price": 741.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/744726/sort/5/filter/0_0_0_0/Ryzen-5-5500-32GB-250SSD-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 30,
+        "name": "Ryzen 5 5600X 16GB 500SSD RTX3060 12GB no-OS",
+        "price": 753.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/744709/sort/5/filter/0_0_0_0/Ryzen-5-5600X-16GB-500SSD-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 31,
+        "name": "Ryzen 5 5500 32GB 500SSD RTX3060 12GB no-OS",
+        "price": 754.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/744727/sort/5/filter/0_0_0_0/Ryzen-5-5500-32GB-500SSD-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 32,
+        "name": "Ryzen 5 5500 16GB 250SSD+2TB RTX3060 12GB no-OS",
+        "price": 770.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/744723/sort/5/filter/0_0_0_0/Ryzen-5-5500-16GB-250SSD-2TB-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 33,
+        "name": "i5-12400F 16GB 250SSD M.2 NVME RTX3060 12GB no-OS",
+        "price": 775.94,
+        "link": "https://www.rdveikals.lv/products/ru/148/549618/sort/5/filter/0_0_0_0/i5-12400F-16GB-250SSD-M.2-NVME-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 34,
+        "name": "Ryzen 5 5600X 16GB 1TB SSD RTX3060 12GB no-OS",
+        "price": 776.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/744710/sort/5/filter/0_0_0_0/Ryzen-5-5600X-16GB-1TB-SSD-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 35,
+        "name": "Ryzen 5 5600X 32GB 250SSD RTX3060 12GB no-OS",
+        "price": 776.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/744714/sort/5/filter/0_0_0_0/Ryzen-5-5600X-32GB-250SSD-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 36,
+        "name": "Ryzen 5 5500 32GB 1TB SSD RTX3060 12GB no-OS",
+        "price": 776.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/744728/sort/5/filter/0_0_0_0/Ryzen-5-5500-32GB-1TB-SSD-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 37,
+        "name": "Ryzen 7 5700X 16GB 250SSD RTX3060 12GB no-OS",
+        "price": 776.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/764213/sort/5/filter/0_0_0_0/Ryzen-7-5700X-16GB-250SSD-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 38,
+        "name": "Ryzen 5 5500 16GB 500SSD+2TB RTX3060 12GB no-OS",
+        "price": 783.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/744724/sort/5/filter/0_0_0_0/Ryzen-5-5500-16GB-500SSD-2TB-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 39,
+        "name": "i5-12400F 16GB 500SSD M.2 NVME RTX3060 12GB no-OS",
+        "price": 788.46,
+        "link": "https://www.rdveikals.lv/products/ru/148/549619/sort/5/filter/0_0_0_0/i5-12400F-16GB-500SSD-M.2-NVME-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 40,
+        "name": "Ryzen 5 5600X 32GB 500SSD RTX3060 12GB no-OS",
+        "price": 789.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/744715/sort/5/filter/0_0_0_0/Ryzen-5-5600X-32GB-500SSD-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 41,
+        "name": "Ryzen 7 5700X 16GB 500SSD RTX3060 12GB no-OS",
+        "price": 789.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/764214/sort/5/filter/0_0_0_0/Ryzen-7-5700X-16GB-500SSD-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 42,
+        "name": "Ryzen 7 5700X 16GB 250SSD M.2 NVME RTX3060 12GB no-OS",
+        "price": 796.8,
+        "link": "https://www.rdveikals.lv/products/ru/148/689230/sort/5/filter/0_0_0_0/Ryzen-7-5700X-16GB-250SSD-M.2-NVME-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 43,
+        "name": "Ryzen 5 5600X 16GB 250SSD+2TB RTX3060 12GB no-OS",
+        "price": 805.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/744711/sort/5/filter/0_0_0_0/Ryzen-5-5600X-16GB-250SSD-2TB-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 44,
+        "name": "Ryzen 5 5500 16GB 1TB SSD+2TB RTX3060 12GB no-OS",
+        "price": 805.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/744725/sort/5/filter/0_0_0_0/Ryzen-5-5500-16GB-1TB-SSD-2TB-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 45,
+        "name": "Ryzen 5 5500 32GB 250SSD+2TB RTX3060 12GB no-OS",
+        "price": 806.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/744729/sort/5/filter/0_0_0_0/Ryzen-5-5500-32GB-250SSD-2TB-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 46,
+        "name": "Ryzen 5 5500 16GB 250SSD RTX3060 12GB W11Home",
+        "price": 807.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/744744/sort/5/filter/0_0_0_0/Ryzen-5-5500-16GB-250SSD-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 47,
+        "name": "Ryzen 7 5700X 16GB 500SSD M.2 NVME RTX3060 12GB no-OS",
+        "price": 809.31,
+        "link": "https://www.rdveikals.lv/products/ru/148/689231/sort/5/filter/0_0_0_0/Ryzen-7-5700X-16GB-500SSD-M.2-NVME-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 48,
+        "name": "i5-12400F 16GB 1SSD RTX3060 12GB DOS Black",
+        "price": 810.7,
+        "link": "https://www.rdveikals.lv/products/ru/148/549822/sort/5/filter/0_0_0_0/i5-12400F-16GB-1SSD-RTX3060-12GB-DOS-Black-компьютер.html"
+    },
+    {
+        "id": 49,
+        "name": "i5-12400F 32GB 250SSD M.2 NVME RTX3060 12GB no-OS",
+        "price": 811.34,
+        "link": "https://www.rdveikals.lv/products/ru/148/549623/sort/5/filter/0_0_0_0/i5-12400F-32GB-250SSD-M.2-NVME-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 50,
+        "name": "Ryzen 7 5700X 16GB 1TB SSD RTX3060 12GB no-OS",
+        "price": 811.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/764215/sort/5/filter/0_0_0_0/Ryzen-7-5700X-16GB-1TB-SSD-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 51,
+        "name": "Ryzen 5 5600X 32GB 1TB SSD RTX3060 12GB no-OS",
+        "price": 812.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/744716/sort/5/filter/0_0_0_0/Ryzen-5-5600X-32GB-1TB-SSD-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 52,
+        "name": "Ryzen 7 5700X 32GB 250SSD RTX3060 12GB no-OS",
+        "price": 812.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/764219/sort/5/filter/0_0_0_0/Ryzen-7-5700X-32GB-250SSD-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 53,
+        "name": "Ryzen 5 5600X 16GB 500SSD+2TB RTX3060 12GB no-OS",
+        "price": 818.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/744712/sort/5/filter/0_0_0_0/Ryzen-5-5600X-16GB-500SSD-2TB-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 54,
+        "name": "Ryzen 5 5500 32GB 500SSD+2TB RTX3060 12GB no-OS",
+        "price": 819.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/744730/sort/5/filter/0_0_0_0/Ryzen-5-5500-32GB-500SSD-2TB-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 55,
+        "name": "Ryzen 5 5500 16GB 500SSD RTX3060 12GB W11Home",
+        "price": 820.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/745462/sort/5/filter/0_0_0_0/Ryzen-5-5500-16GB-500SSD-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 56,
+        "name": "i5-12400F 32GB 500SSD M.2 NVME RTX3060 12GB no-OS",
+        "price": 823.86,
+        "link": "https://www.rdveikals.lv/products/ru/148/549624/sort/5/filter/0_0_0_0/i5-12400F-32GB-500SSD-M.2-NVME-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 57,
+        "name": "Ryzen 7 5700X 32GB 500SSD RTX3060 12GB no-OS",
+        "price": 825.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/764220/sort/5/filter/0_0_0_0/Ryzen-7-5700X-32GB-500SSD-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 58,
+        "name": "Ryzen 7 5700X 16GB 1TB SSD M.2 NVME RTX3060 12GB no-OS",
+        "price": 831.56,
+        "link": "https://www.rdveikals.lv/products/ru/148/689232/sort/5/filter/0_0_0_0/Ryzen-7-5700X-16GB-1TB-SSD-M.2-NVME-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 59,
+        "name": "Ryzen 7 5700X 32GB 250SSD M.2 NVME RTX3060 12GB no-OS",
+        "price": 832.2,
+        "link": "https://www.rdveikals.lv/products/ru/148/689236/sort/5/filter/0_0_0_0/Ryzen-7-5700X-32GB-250SSD-M.2-NVME-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 60,
+        "name": "i5-12400F 16GB 250SSD M.2 NVME+2TB RTX3060 12GB no-OS",
+        "price": 839.89,
+        "link": "https://www.rdveikals.lv/products/ru/148/549620/sort/5/filter/0_0_0_0/i5-12400F-16GB-250SSD-M.2-NVME-2TB-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 61,
+        "name": "Ryzen 5 5600X 16GB 1TB SSD+2TB RTX3060 12GB no-OS",
+        "price": 841.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/744713/sort/5/filter/0_0_0_0/Ryzen-5-5600X-16GB-1TB-SSD-2TB-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 62,
+        "name": "Ryzen 5 5600X 32GB 250SSD+2TB RTX3060 12GB no-OS",
+        "price": 841.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/744717/sort/5/filter/0_0_0_0/Ryzen-5-5600X-32GB-250SSD-2TB-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 63,
+        "name": "Ryzen 5 5500 32GB 1TB SSD+2TB RTX3060 12GB no-OS",
+        "price": 841.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/744731/sort/5/filter/0_0_0_0/Ryzen-5-5500-32GB-1TB-SSD-2TB-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 64,
+        "name": "GeForce RTX 3060 Gaming OC 8GB GDDR6 128bit rev. 2.0",
+        "price": 274.0,
+        "link": "https://www.rdveikals.lv/products/ru/417/509240/sort/5/filter/0_0_0_0/GeForce-RTX-3060-Gaming-OC-8GB-GDDR6-128bit-rev.-2.0-видеокарта.html"
+    },
+    {
+        "id": 65,
+        "name": "GeForce RTX 3060 Ventus 2X OC 12GB GDDR6 192bit",
+        "price": 276.0,
+        "link": "https://www.rdveikals.lv/products/ru/417/363652/sort/5/filter/0_0_0_0/GeForce-RTX-3060-Ventus-2X-OC-12GB-GDDR6-192bit-видеокарта.html"
+    },
+    {
+        "id": 66,
+        "name": "GeForce RTX 3060 Twin Twin Edge 12GB GDDR6 192bit",
+        "price": 295.0,
+        "link": "https://www.rdveikals.lv/products/ru/417/759148/sort/5/filter/0_0_0_0/GeForce-RTX-3060-Twin-Twin-Edge-12GB-GDDR6-192bit-видеокарта.html"
+    },
+    {
+        "id": 67,
+        "name": "GeForce RTX 3060 Gaming OC 12GB GDDR6 192bit rev. 2.0 LHR",
+        "price": 300.0,
+        "link": "https://www.rdveikals.lv/products/ru/417/347112/sort/5/filter/0_0_0_0/GeForce-RTX-3060-Gaming-OC-12GB-GDDR6-192bit-rev.-2.0-LHR-видеокарта.html"
+    },
+    {
+        "id": 68,
+        "name": "GeForce RTX 3060 WindForce OC 12GB GDDR6 192bit",
+        "price": 300.18,
+        "link": "https://www.rdveikals.lv/products/ru/417/450452/sort/5/filter/0_0_0_0/GeForce-RTX-3060-WindForce-OC-12GB-GDDR6-192bit-видеокарта.html"
+    },
+    {
+        "id": 69,
+        "name": "GeForce RTX 3060 WindForce OC 12GB GDDR6 192bit rev. 2.0",
+        "price": 308.29,
+        "link": "https://www.rdveikals.lv/products/ru/417/497255/sort/5/filter/0_0_0_0/GeForce-RTX-3060-WindForce-OC-12GB-GDDR6-192bit-rev.-2.0-видеокарта.html"
+    },
+    {
+        "id": 70,
+        "name": "GeForce RTX 3060 Twin X2 12GB GDDR6 192bit",
+        "price": 312.99,
+        "link": "https://www.rdveikals.lv/products/ru/417/416339/sort/5/filter/0_0_0_0/GeForce-RTX-3060-Twin-X2-12GB-GDDR6-192bit-видеокарта.html"
+    },
+    {
+        "id": 71,
+        "name": "GeForce RTX 3060 Dual OC V2 LHR 12GB GDDR6 192bit",
+        "price": 317.9,
+        "link": "https://www.rdveikals.lv/products/ru/417/388755/sort/5/filter/0_0_0_0/GeForce-RTX-3060-Dual-OC-V2-LHR-12GB-GDDR6-192bit-видеокарта.html"
+    },
+    {
+        "id": 72,
+        "name": "GeForce RTX 3060 V2 OC 12GB GDDR6 192bit",
+        "price": 317.9,
+        "link": "https://www.rdveikals.lv/products/ru/417/423011/sort/5/filter/0_0_0_0/GeForce-RTX-3060-V2-OC-12GB-GDDR6-192bit-видеокарта.html"
+    },
+    {
+        "id": 73,
+        "name": "GeForce RTX 3060 Twin X2 OC LHR 12GB GDDR6 192bit",
+        "price": 332.17,
+        "link": "https://www.rdveikals.lv/products/ru/417/560210/sort/5/filter/0_0_0_0/GeForce-RTX-3060-Twin-X2-OC-LHR-12GB-GDDR6-192bit-видеокарта.html"
+    },
+    {
+        "id": 74,
+        "name": "GeForce RTX 3060 Ti Extreme Gaming 8GB GDDR6X 256bit",
+        "price": 360.0,
+        "link": "https://www.rdveikals.lv/products/ru/417/599323/sort/5/filter/0_0_0_0/GeForce-RTX-3060-Ti-Extreme-Gaming-8GB-GDDR6X-256bit-видеокарта.html"
+    },
+    {
+        "id": 75,
+        "name": "GeForce RTX 3060 Ventus 3X OC 12GB GDDR6 192bit",
+        "price": 424.99,
+        "link": "https://www.rdveikals.lv/products/ru/417/773221/sort/5/filter/0_0_0_0/GeForce-RTX-3060-Ventus-3X-OC-12GB-GDDR6-192bit-видеокарта.html"
+    },
+    {
+        "id": 76,
+        "name": "GeForce RTX Extreme Gaming 3060 12GB GDDR6 192bit",
+        "price": 291.9,
+        "link": "https://www.rdveikals.lv/products/ru/417/751581/sort/5/filter/0_0_0_0/GeForce-RTX-Extreme-Gaming-3060-12GB-GDDR6-192bit-видеокарта.html"
+    },
+    {
+        "id": 77,
+        "name": "Blade RZ09-0421EED3-R3E1 15.6 240hz i7-12800H 16GB 1SSD RTX3060 EN W11",
+        "price": 3311.12,
+        "link": "https://www.rdveikals.lv/products/ru/150/539111/sort/5/filter/0_0_0_0/Blade-RZ09-0421EED3-R3E1-15.6-240hz-i7-12800H-16GB-1SSD-RTX3060-EN-W11-ноутбук.html"
+    },
+    {
+        "id": 78,
+        "name": "Blade 17 RZ09-0423EEA3-R3E1 17.3 165hz i7-12800HX 16GB 1SSD RTX3060 11",
+        "price": 3556.59,
+        "link": "https://www.rdveikals.lv/products/ru/150/776038/sort/5/filter/0_0_0_0/Blade-17-RZ09-0423EEA3-R3E1-17.3-165hz-i7-12800HX-16GB-1SSD-RTX3060-11-ноутбук.html"
+    },
+    {
+        "id": 79,
+        "name": "Ryzen 5 5500 16GB 250SSD RTX3060 12GB no-OS",
+        "price": 705.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/744720/sort/5/filter/0_0_0_0/Ryzen-5-5500-16GB-250SSD-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 80,
+        "name": "Ryzen 5 5500 16GB 500SSD RTX3060 12GB no-OS",
+        "price": 718.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/744721/sort/5/filter/0_0_0_0/Ryzen-5-5500-16GB-500SSD-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 81,
+        "name": "Ryzen 5 5600X 16GB 250SSD RTX3060 12GB no-OS",
+        "price": 740.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/744708/sort/5/filter/0_0_0_0/Ryzen-5-5600X-16GB-250SSD-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 82,
+        "name": "i5-12400F 16GB 1TB SSD M.2 NVME+2TB RTX3060 12GB WIN11",
+        "price": 974.96,
+        "link": "https://www.rdveikals.lv/products/ru/148/549688/sort/5/filter/0_0_0_0/i5-12400F-16GB-1TB-SSD-M.2-NVME-2TB-RTX3060-12GB-WIN11-компьютер.html"
+    },
+    {
+        "id": 83,
+        "name": "i5-12400F 32GB 250SSD M.2 NVME+2TB RTX3060 12GB WIN11",
+        "price": 975.62,
+        "link": "https://www.rdveikals.lv/products/ru/148/549692/sort/5/filter/0_0_0_0/i5-12400F-32GB-250SSD-M.2-NVME-2TB-RTX3060-12GB-WIN11-компьютер.html"
+    },
+    {
+        "id": 84,
+        "name": "Ryzen 5 5600X 16GB 250SSD+2TB RTX3060 12GB W11Pro",
+        "price": 975.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/745826/sort/5/filter/0_0_0_0/Ryzen-5-5600X-16GB-250SSD-2TB-RTX3060-12GB-W11Pro-компьютер.html"
+    },
+    {
+        "id": 85,
+        "name": "Ryzen 5 5500 16GB 1TB SSD+2TB RTX3060 12GB W11Pro",
+        "price": 975.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/746259/sort/5/filter/0_0_0_0/Ryzen-5-5500-16GB-1TB-SSD-2TB-RTX3060-12GB-W11Pro-компьютер.html"
+    },
+    {
+        "id": 86,
+        "name": "Ryzen 7 5700X 16GB 500SSD M.2 NVME RTX3060 12GB WIN11Pro",
+        "price": 976.17,
+        "link": "https://www.rdveikals.lv/products/ru/148/689326/sort/5/filter/0_0_0_0/Ryzen-7-5700X-16GB-500SSD-M.2-NVME-RTX3060-12GB-WIN11Pro-компьютер.html"
+    },
+    {
+        "id": 87,
+        "name": "Ryzen 5 5500 32GB 250SSD+2TB RTX3060 12GB W11Pro",
+        "price": 976.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/746647/sort/5/filter/0_0_0_0/Ryzen-5-5500-32GB-250SSD-2TB-RTX3060-12GB-W11Pro-компьютер.html"
+    },
+    {
+        "id": 88,
+        "name": "i7-12700F 16GB 1SSD RTX3060 12GB DOS",
+        "price": 977.55,
+        "link": "https://www.rdveikals.lv/products/ru/148/689220/sort/5/filter/0_0_0_0/i7-12700F-16GB-1SSD-RTX3060-12GB-DOS-компьютер.html"
+    },
+    {
+        "id": 89,
+        "name": "i7-12700F 32GB 250SSD M.2 NVME RTX3060 12GB no-OS",
+        "price": 978.19,
+        "link": "https://www.rdveikals.lv/products/ru/148/689224/sort/5/filter/0_0_0_0/i7-12700F-32GB-250SSD-M.2-NVME-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 90,
+        "name": "Ryzen 5 5600X 32GB 1TB SSD+2TB RTX3060 12GB W11Home",
+        "price": 979.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/744743/sort/5/filter/0_0_0_0/Ryzen-5-5600X-32GB-1TB-SSD-2TB-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 91,
+        "name": "Ryzen 7 5700X 16GB 1TB SSD+2TB RTX3060 12GB W11Home",
+        "price": 979.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/764230/sort/5/filter/0_0_0_0/Ryzen-7-5700X-16GB-1TB-SSD-2TB-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 92,
+        "name": "Ryzen 7 5700X 32GB 250SSD+2TB RTX3060 12GB W11Home",
+        "price": 979.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/764234/sort/5/filter/0_0_0_0/Ryzen-7-5700X-32GB-250SSD-2TB-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 93,
+        "name": "Ryzen 5 5600X 32GB 1TB SSD RTX3060 12GB W11Pro",
+        "price": 982.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/746250/sort/5/filter/0_0_0_0/Ryzen-5-5600X-32GB-1TB-SSD-RTX3060-12GB-W11Pro-компьютер.html"
+    },
+    {
+        "id": 94,
+        "name": "AQUA Ryzen 5 7600X 16GB DDR5 500SSD RTX3060 12GB no-OS",
+        "price": 986.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/746650/sort/5/filter/0_0_0_0/AQUA-Ryzen-5-7600X-16GB-DDR5-500SSD-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 95,
+        "name": "AQUA i5-13400F 16GB 2TB SSD RTX3060 12GB no-OS",
+        "price": 986.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/769625/sort/5/filter/0_0_0_0/AQUA-i5-13400F-16GB-2TB-SSD-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 96,
+        "name": "i5-12400F 32GB 500SSD M.2 NVME+2TB RTX3060 12GB WIN11",
+        "price": 988.12,
+        "link": "https://www.rdveikals.lv/products/ru/148/549777/sort/5/filter/0_0_0_0/i5-12400F-32GB-500SSD-M.2-NVME-2TB-RTX3060-12GB-WIN11-компьютер.html"
+    },
+    {
+        "id": 97,
+        "name": "Ryzen 5 5600X 16GB 500SSD+2TB RTX3060 12GB W11Pro",
+        "price": 988.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/745827/sort/5/filter/0_0_0_0/Ryzen-5-5600X-16GB-500SSD-2TB-RTX3060-12GB-W11Pro-компьютер.html"
+    },
+    {
+        "id": 98,
+        "name": "Ryzen 5 5500 32GB 500SSD+2TB RTX3060 12GB W11Pro",
+        "price": 989.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/746648/sort/5/filter/0_0_0_0/Ryzen-5-5500-32GB-500SSD-2TB-RTX3060-12GB-W11Pro-компьютер.html"
+    },
+    {
+        "id": 99,
+        "name": "AQUA i5-13400F 16GB 1TB SSD+2TB RTX3060 12GB no-OS",
+        "price": 989.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/770277/sort/5/filter/0_0_0_0/AQUA-i5-13400F-16GB-1TB-SSD-2TB-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 100,
+        "name": "AQUA Ryzen 5 7600X 32GB 2 TB SSD+2TB RTX3060 12GB W11Pro",
+        "price": 1334.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/770799/sort/5/filter/0_0_0_0/AQUA-Ryzen-5-7600X-32GB-2-TB-SSD-2TB-RTX3060-12GB-W11Pro-компьютер.html"
+    },
+    {
+        "id": 101,
+        "name": "AQUA Ryzen 5 7600X 32GB 2TB SSD+2TB RTX3060 12GB W11Pro",
+        "price": 1349.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/747134/sort/5/filter/0_0_0_0/AQUA-Ryzen-5-7600X-32GB-2TB-SSD-2TB-RTX3060-12GB-W11Pro-компьютер.html"
+    },
+    {
+        "id": 102,
+        "name": "AQUA Ryzen 7 7700X 32GB 500SSD+2TB RTX3060 12GB W11Pro",
+        "price": 1349.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/761282/sort/5/filter/0_0_0_0/AQUA-Ryzen-7-7700X-32GB-500SSD-2TB-RTX3060-12GB-W11Pro-компьютер.html"
+    },
+    {
+        "id": 103,
+        "name": "AQUA i7-14700F 32GB 2TB SSD RTX3060 12GB W11Home",
+        "price": 1350.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/761478/sort/5/filter/0_0_0_0/AQUA-i7-14700F-32GB-2TB-SSD-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 104,
+        "name": "AQUA Ryzen 7 7700X 32GB 2 TB SSD+2TB RTX3060 12GB W11Home",
+        "price": 1352.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/767446/sort/5/filter/0_0_0_0/AQUA-Ryzen-7-7700X-32GB-2-TB-SSD-2TB-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 105,
+        "name": "AQUA i7-14700F 32GB 1TB SSD+2TB RTX3060 12GB W11Home",
+        "price": 1353.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/761483/sort/5/filter/0_0_0_0/AQUA-i7-14700F-32GB-1TB-SSD-2TB-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 106,
+        "name": "AQUA Ryzen 7 7700X 32GB 2 TB SSD RTX3060 12GB W11Pro",
+        "price": 1354.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/767452/sort/5/filter/0_0_0_0/AQUA-Ryzen-7-7700X-32GB-2-TB-SSD-RTX3060-12GB-W11Pro-компьютер.html"
+    },
+    {
+        "id": 107,
+        "name": "AQUA i7-14700F 32GB 1TB SSD RTX3060 12GB W11Pro",
+        "price": 1356.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/761489/sort/5/filter/0_0_0_0/AQUA-i7-14700F-32GB-1TB-SSD-RTX3060-12GB-W11Pro-компьютер.html"
+    },
+    {
+        "id": 108,
+        "name": "AQUA i7-14700F 16GB 500SSD+2TB RTX3060 12GB W11Pro",
+        "price": 1356.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/761491/sort/5/filter/0_0_0_0/AQUA-i7-14700F-16GB-500SSD-2TB-RTX3060-12GB-W11Pro-компьютер.html"
+    },
+    {
+        "id": 109,
+        "name": "AQUA Ryzen 7 7700X 32GB 1 TB SSD+2TB RTX3060 12GB W11Pro",
+        "price": 1357.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/767457/sort/5/filter/0_0_0_0/AQUA-Ryzen-7-7700X-32GB-1-TB-SSD-2TB-RTX3060-12GB-W11Pro-компьютер.html"
+    },
+    {
+        "id": 110,
+        "name": "AQUA Ryzen 7 7700X 32GB 2TB SSD+2TB RTX3060 12GB W11Home",
+        "price": 1366.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/761272/sort/5/filter/0_0_0_0/AQUA-Ryzen-7-7700X-32GB-2TB-SSD-2TB-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 111,
+        "name": "AQUA Ryzen 7 7700X 32GB 2TB SSD RTX3060 12GB W11Pro",
+        "price": 1368.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/761278/sort/5/filter/0_0_0_0/AQUA-Ryzen-7-7700X-32GB-2TB-SSD-RTX3060-12GB-W11Pro-компьютер.html"
+    },
+    {
+        "id": 112,
+        "name": "AQUA Ryzen 7 7700X 32GB 1TB SSD+2TB RTX3060 12GB W11Pro",
+        "price": 1371.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/761283/sort/5/filter/0_0_0_0/AQUA-Ryzen-7-7700X-32GB-1TB-SSD-2TB-RTX3060-12GB-W11Pro-компьютер.html"
+    },
+    {
+        "id": 113,
+        "name": "AQUA i7-14700F 16GB 2TB SSD+2TB RTX3060 12GB W11Home",
+        "price": 1373.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/761481/sort/5/filter/0_0_0_0/AQUA-i7-14700F-16GB-2TB-SSD-2TB-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 114,
+        "name": "AQUA i7-14700F 16GB 2TB SSD RTX3060 12GB W11Pro",
+        "price": 1375.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/761487/sort/5/filter/0_0_0_0/AQUA-i7-14700F-16GB-2TB-SSD-RTX3060-12GB-W11Pro-компьютер.html"
+    },
+    {
+        "id": 115,
+        "name": "AQUA Ryzen 7 7700X 16GB 2 TB SSD+2TB RTX3060 12GB W11Pro",
+        "price": 1377.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/767455/sort/5/filter/0_0_0_0/AQUA-Ryzen-7-7700X-16GB-2-TB-SSD-2TB-RTX3060-12GB-W11Pro-компьютер.html"
+    },
+    {
+        "id": 116,
+        "name": "AQUA i7-14700F 16GB 1TB SSD+2TB RTX3060 12GB W11Pro",
+        "price": 1378.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/761492/sort/5/filter/0_0_0_0/AQUA-i7-14700F-16GB-1TB-SSD-2TB-RTX3060-12GB-W11Pro-компьютер.html"
+    },
+    {
+        "id": 117,
+        "name": "AQUA Ryzen 7 7700X 16GB 2TB SSD+2TB RTX3060 12GB W11Pro",
+        "price": 1391.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/761281/sort/5/filter/0_0_0_0/AQUA-Ryzen-7-7700X-16GB-2TB-SSD-2TB-RTX3060-12GB-W11Pro-компьютер.html"
+    },
+    {
+        "id": 118,
+        "name": "Ryzen 7 5700X 16GB 250SSD M.2 NVME RTX3060 12GB WIN11",
+        "price": 897.11,
+        "link": "https://www.rdveikals.lv/products/ru/148/689259/sort/5/filter/0_0_0_0/Ryzen-7-5700X-16GB-250SSD-M.2-NVME-RTX3060-12GB-WIN11-компьютер.html"
+    },
+    {
+        "id": 119,
+        "name": "AQUA i5-13400F 16GB 500SSD RTX3060 12GB no-OS",
+        "price": 901.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/769623/sort/5/filter/0_0_0_0/AQUA-i5-13400F-16GB-500SSD-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 120,
+        "name": "Ryzen 7 5700X 32GB 500SSD M.2 NVME+2TB RTX3060 12GB no-OS",
+        "price": 908.67,
+        "link": "https://www.rdveikals.lv/products/ru/148/689240/sort/5/filter/0_0_0_0/Ryzen-7-5700X-32GB-500SSD-M.2-NVME-2TB-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 121,
+        "name": "Ryzen 5 5600X 16GB 250SSD+2TB RTX3060 12GB W11Home",
+        "price": 908.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/744735/sort/5/filter/0_0_0_0/Ryzen-5-5600X-16GB-250SSD-2TB-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 122,
+        "name": "Ryzen 5 5500 16GB 1TB SSD+2TB RTX3060 12GB W11Home",
+        "price": 908.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/745816/sort/5/filter/0_0_0_0/Ryzen-5-5500-16GB-1TB-SSD-2TB-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 123,
+        "name": "Ryzen 5 5500 32GB 250SSD+2TB RTX3060 12GB W11Home",
+        "price": 908.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/745820/sort/5/filter/0_0_0_0/Ryzen-5-5500-32GB-250SSD-2TB-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 124,
+        "name": "Ryzen 7 5700X 16GB 500SSD M.2 NVME RTX3060 12GB WIN11",
+        "price": 909.62,
+        "link": "https://www.rdveikals.lv/products/ru/148/689260/sort/5/filter/0_0_0_0/Ryzen-7-5700X-16GB-500SSD-M.2-NVME-RTX3060-12GB-WIN11-компьютер.html"
+    },
+    {
+        "id": 125,
+        "name": "i5-12400F 32GB 1TB SSD M.2 NVME+2TB RTX3060 12GB no-OS",
+        "price": 910.07,
+        "link": "https://www.rdveikals.lv/products/ru/148/549628/sort/5/filter/0_0_0_0/i5-12400F-32GB-1TB-SSD-M.2-NVME-2TB-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 126,
+        "name": "Ryzen 5 5600X 16GB 250SSD RTX3060 12GB W11Pro",
+        "price": 910.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/745823/sort/5/filter/0_0_0_0/Ryzen-5-5600X-16GB-250SSD-RTX3060-12GB-W11Pro-компьютер.html"
+    },
+    {
+        "id": 127,
+        "name": "Ryzen 5 5500 16GB 1TB SSD RTX3060 12GB W11Pro",
+        "price": 910.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/746256/sort/5/filter/0_0_0_0/Ryzen-5-5500-16GB-1TB-SSD-RTX3060-12GB-W11Pro-компьютер.html"
+    },
+    {
+        "id": 128,
+        "name": "i5-12400F 16GB 1TB SSD M.2 NVME RTX3060 12GB WIN11",
+        "price": 911.01,
+        "link": "https://www.rdveikals.lv/products/ru/148/549686/sort/5/filter/0_0_0_0/i5-12400F-16GB-1TB-SSD-M.2-NVME-RTX3060-12GB-WIN11-компьютер.html"
+    },
+    {
+        "id": 129,
+        "name": "i5-12400F 32GB 250SSD M.2 NVME RTX3060 12GB WIN11",
+        "price": 911.65,
+        "link": "https://www.rdveikals.lv/products/ru/148/549689/sort/5/filter/0_0_0_0/i5-12400F-32GB-250SSD-M.2-NVME-RTX3060-12GB-WIN11-компьютер.html"
+    },
+    {
+        "id": 130,
+        "name": "Ryzen 5 5500 32GB 250SSD RTX3060 12GB W11Pro",
+        "price": 911.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/746260/sort/5/filter/0_0_0_0/Ryzen-5-5500-32GB-250SSD-RTX3060-12GB-W11Pro-компьютер.html"
+    },
+    {
+        "id": 131,
+        "name": "Ryzen 7 5700X 32GB 1TB SSD+2TB RTX3060 12GB no-OS",
+        "price": 912.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/764224/sort/5/filter/0_0_0_0/Ryzen-7-5700X-32GB-1TB-SSD-2TB-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 132,
+        "name": "Ryzen 7 5700X 16GB 1TB SSD RTX3060 12GB W11Home",
+        "price": 913.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/764227/sort/5/filter/0_0_0_0/Ryzen-7-5700X-16GB-1TB-SSD-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 133,
+        "name": "Ryzen 5 5600X 32GB 1TB SSD RTX3060 12GB W11Home",
+        "price": 914.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/744740/sort/5/filter/0_0_0_0/Ryzen-5-5600X-32GB-1TB-SSD-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 134,
+        "name": "Ryzen 7 5700X 32GB 250SSD RTX3060 12GB W11Home",
+        "price": 914.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/764231/sort/5/filter/0_0_0_0/Ryzen-7-5700X-32GB-250SSD-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 135,
+        "name": "Ryzen 5 5600X 16GB 500SSD+2TB RTX3060 12GB W11Home",
+        "price": 920.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/744736/sort/5/filter/0_0_0_0/Ryzen-5-5600X-16GB-500SSD-2TB-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 136,
+        "name": "Ryzen 7 5700X 32GB 500SSD M.2 NVME+2TB RTX3060 12GB WIN11Pro",
+        "price": 1075.52,
+        "link": "https://www.rdveikals.lv/products/ru/148/689335/sort/5/filter/0_0_0_0/Ryzen-7-5700X-32GB-500SSD-M.2-NVME-2TB-RTX3060-12GB-WIN11Pro-компьютер.html"
+    },
+    {
+        "id": 137,
+        "name": "i7-12700F 32GB 1TB SSD M.2 NVME+2TB RTX3060 12GB no-OS",
+        "price": 1076.92,
+        "link": "https://www.rdveikals.lv/products/ru/148/689229/sort/5/filter/0_0_0_0/i7-12700F-32GB-1TB-SSD-M.2-NVME-2TB-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 138,
+        "name": "i7-12700F 16GB 1TB SSD M.2 NVME RTX3060 12GB WIN11",
+        "price": 1077.86,
+        "link": "https://www.rdveikals.lv/products/ru/148/689248/sort/5/filter/0_0_0_0/i7-12700F-16GB-1TB-SSD-M.2-NVME-RTX3060-12GB-WIN11-компьютер.html"
+    },
+    {
+        "id": 139,
+        "name": "i7-12700F 32GB 250SSD M.2 NVME RTX3060 12GB WIN11",
+        "price": 1078.5,
+        "link": "https://www.rdveikals.lv/products/ru/148/689252/sort/5/filter/0_0_0_0/i7-12700F-32GB-250SSD-M.2-NVME-RTX3060-12GB-WIN11-компьютер.html"
+    },
+    {
+        "id": 140,
+        "name": "AQUA Ryzen 7 7700X 16GB 1 TB SSD RTX3060 12GB no-OS",
+        "price": 1079.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/767009/sort/5/filter/0_0_0_0/AQUA-Ryzen-7-7700X-16GB-1-TB-SSD-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 141,
+        "name": "AQUA Ryzen 5 7600X 32GB 500SSD+2TB RTX3060 12GB no-OS",
+        "price": 1079.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/770315/sort/5/filter/0_0_0_0/AQUA-Ryzen-5-7600X-32GB-500SSD-2TB-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 142,
+        "name": "AQUA Ryzen 5 7600X 16GB 500SSD RTX3060 12GB W11Home",
+        "price": 1088.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/746662/sort/5/filter/0_0_0_0/AQUA-Ryzen-5-7600X-16GB-500SSD-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 143,
+        "name": "AQUA i5-13400F 16GB 2TB SSD RTX3060 12GB W11Home",
+        "price": 1088.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/770284/sort/5/filter/0_0_0_0/AQUA-i5-13400F-16GB-2TB-SSD-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 144,
+        "name": "i7-12700F 32GB 500SSD M.2 NVME RTX3060 12GB WIN11",
+        "price": 1091.02,
+        "link": "https://www.rdveikals.lv/products/ru/148/689253/sort/5/filter/0_0_0_0/i7-12700F-32GB-500SSD-M.2-NVME-RTX3060-12GB-WIN11-компьютер.html"
+    },
+    {
+        "id": 145,
+        "name": "AQUA i5-13400F 16GB 1TB SSD+2TB RTX3060 12GB W11Home",
+        "price": 1091.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/770289/sort/5/filter/0_0_0_0/AQUA-i5-13400F-16GB-1TB-SSD-2TB-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 146,
+        "name": "AQUA Ryzen 5 7600X 32GB DDR5 500SSD+2TB RTX3060 12GB no-OS",
+        "price": 1094.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/746659/sort/5/filter/0_0_0_0/AQUA-Ryzen-5-7600X-32GB-DDR5-500SSD-2TB-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 147,
+        "name": "AQUA Ryzen 7 7700X 16GB 1TB SSD RTX3060 12GB no-OS",
+        "price": 1094.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/747136/sort/5/filter/0_0_0_0/AQUA-Ryzen-7-7700X-16GB-1TB-SSD-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 148,
+        "name": "AQUA i5-13400F 32GB 2TB SSD+2TB RTX3060 12GB no-OS",
+        "price": 1094.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/770281/sort/5/filter/0_0_0_0/AQUA-i5-13400F-32GB-2TB-SSD-2TB-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 149,
+        "name": "AQUA i5-13400F 16GB 1TB SSD RTX3060 12GB W11Pro",
+        "price": 1094.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/770295/sort/5/filter/0_0_0_0/AQUA-i5-13400F-16GB-1TB-SSD-RTX3060-12GB-W11Pro-компьютер.html"
+    },
+    {
+        "id": 150,
+        "name": "Ryzen 7 5700X 32GB 1TB SSD M.2 NVME+2TB RTX3060 12GB WIN11Pro",
+        "price": 1097.78,
+        "link": "https://www.rdveikals.lv/products/ru/148/689336/sort/5/filter/0_0_0_0/Ryzen-7-5700X-32GB-1TB-SSD-M.2-NVME-2TB-RTX3060-12GB-WIN11Pro-компьютер.html"
+    },
+    {
+        "id": 151,
+        "name": "AQUA Ryzen 5 7600X 16GB 1 TB SSD RTX3060 12GB W11Home",
+        "price": 1097.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/770319/sort/5/filter/0_0_0_0/AQUA-Ryzen-5-7600X-16GB-1-TB-SSD-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 152,
+        "name": "AQUA Ryzen 7 7700X 32GB 500 SSD RTX3060 12GB no-OS",
+        "price": 1099.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/767011/sort/5/filter/0_0_0_0/AQUA-Ryzen-7-7700X-32GB-500-SSD-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 153,
+        "name": "AQUA Ryzen 5 7600X 32GB 2TB SSD RTX3060 12GB no-OS",
+        "price": 1099.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/770311/sort/5/filter/0_0_0_0/AQUA-Ryzen-5-7600X-32GB-2TB-SSD-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 154,
+        "name": "AQUA Ryzen 5 7600X 32GB 1TB SSD+2TB RTX3060 12GB no-OS",
+        "price": 1102.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/770316/sort/5/filter/0_0_0_0/AQUA-Ryzen-5-7600X-32GB-1TB-SSD-2TB-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 155,
+        "name": "i7-12700F 16GB 250SSD M.2 NVME+2TB RTX3060 12GB WIN11",
+        "price": 1107.06,
+        "link": "https://www.rdveikals.lv/products/ru/148/689249/sort/5/filter/0_0_0_0/i7-12700F-16GB-250SSD-M.2-NVME-2TB-RTX3060-12GB-WIN11-компьютер.html"
+    },
+    {
+        "id": 156,
+        "name": "i7-12700F 16GB 250SSD M.2 NVME RTX3060 12GB WIN11Pro",
+        "price": 1109.64,
+        "link": "https://www.rdveikals.lv/products/ru/148/689315/sort/5/filter/0_0_0_0/i7-12700F-16GB-250SSD-M.2-NVME-RTX3060-12GB-WIN11Pro-компьютер.html"
+    },
+    {
+        "id": 157,
+        "name": "AQUA Ryzen 5 7600X 16GB 1TB SSD RTX3060 12GB W11Home",
+        "price": 1111.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/746663/sort/5/filter/0_0_0_0/AQUA-Ryzen-5-7600X-16GB-1TB-SSD-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 158,
+        "name": "AQUA i5-13400F 32GB 500SSD+2TB RTX3060 12GB W11Home",
+        "price": 1111.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/770291/sort/5/filter/0_0_0_0/AQUA-i5-13400F-32GB-500SSD-2TB-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 159,
+        "name": "i7-12700F 32GB 1TB SSD M.2 NVME RTX3060 12GB WIN11",
+        "price": 1113.26,
+        "link": "https://www.rdveikals.lv/products/ru/148/689254/sort/5/filter/0_0_0_0/i7-12700F-32GB-1TB-SSD-M.2-NVME-RTX3060-12GB-WIN11-компьютер.html"
+    },
+    {
+        "id": 160,
+        "name": "AQUA Ryzen 5 7600X 32GB DDR5 2TB SSD RTX3060 12GB no-OS",
+        "price": 1113.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/746655/sort/5/filter/0_0_0_0/AQUA-Ryzen-5-7600X-32GB-DDR5-2TB-SSD-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 161,
+        "name": "AQUA Ryzen 7 7700X 32GB 500SSD RTX3060 12GB no-OS",
+        "price": 1113.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/747138/sort/5/filter/0_0_0_0/AQUA-Ryzen-7-7700X-32GB-500SSD-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 162,
+        "name": "AQUA i5-13400F 32GB 500SSD RTX3060 12GB W11Pro",
+        "price": 1113.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/770297/sort/5/filter/0_0_0_0/AQUA-i5-13400F-32GB-500SSD-RTX3060-12GB-W11Pro-компьютер.html"
+    },
+    {
+        "id": 163,
+        "name": "AQUA Ryzen 5 7600X 32GB DDR5 1TB SSD+2TB RTX3060 12GB no-OS",
+        "price": 1116.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/746660/sort/5/filter/0_0_0_0/AQUA-Ryzen-5-7600X-32GB-DDR5-1TB-SSD-2TB-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 164,
+        "name": "AQUA Ryzen 5 7600X 32GB 500 SSD RTX3060 12GB W11Home",
+        "price": 1116.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/770321/sort/5/filter/0_0_0_0/AQUA-Ryzen-5-7600X-32GB-500-SSD-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 165,
+        "name": "i7-12700F 16GB 500SSD M.2 NVME+2TB RTX3060 12GB WIN11",
+        "price": 1119.57,
+        "link": "https://www.rdveikals.lv/products/ru/148/689250/sort/5/filter/0_0_0_0/i7-12700F-16GB-500SSD-M.2-NVME-2TB-RTX3060-12GB-WIN11-компьютер.html"
+    },
+    {
+        "id": 166,
+        "name": "AQUA i7-14700F 16GB 500SSD RTX3060 12GB no-OS",
+        "price": 1121.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/761461/sort/5/filter/0_0_0_0/AQUA-i7-14700F-16GB-500SSD-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 167,
+        "name": "i7-12700F 16GB 500SSD M.2 NVME RTX3060 12GB WIN11Pro",
+        "price": 1122.16,
+        "link": "https://www.rdveikals.lv/products/ru/148/689337/sort/5/filter/0_0_0_0/i7-12700F-16GB-500SSD-M.2-NVME-RTX3060-12GB-WIN11Pro-компьютер.html"
+    },
+    {
+        "id": 168,
+        "name": "AQUA Ryzen 7 7700X 32GB 1 TB SSD RTX3060 12GB no-OS",
+        "price": 1122.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/767012/sort/5/filter/0_0_0_0/AQUA-Ryzen-7-7700X-32GB-1-TB-SSD-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 169,
+        "name": "AQUA Ryzen 7 7700X 16GB 500 SSD+2TB RTX3060 12GB no-OS",
+        "price": 1122.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/767014/sort/5/filter/0_0_0_0/AQUA-Ryzen-7-7700X-16GB-500-SSD-2TB-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 170,
+        "name": "AQUA Ryzen 5 7600X 16GB 2TB SSD+2TB RTX3060 12GB no-OS",
+        "price": 1122.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/770314/sort/5/filter/0_0_0_0/AQUA-Ryzen-5-7600X-16GB-2TB-SSD-2TB-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 171,
+        "name": "AQUA Ryzen 5 7600X 32GB 500SSD RTX3060 12GB W11Home",
+        "price": 1131.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/747114/sort/5/filter/0_0_0_0/AQUA-Ryzen-5-7600X-32GB-500SSD-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 172,
+        "name": "i5-12400F 32GB 1TB SSD M.2 NVME RTX3060 12GB WIN11",
+        "price": 946.41,
+        "link": "https://www.rdveikals.lv/products/ru/148/549691/sort/5/filter/0_0_0_0/i5-12400F-32GB-1TB-SSD-M.2-NVME-RTX3060-12GB-WIN11-компьютер.html"
+    },
+    {
+        "id": 173,
+        "name": "Ryzen 5 5600X 16GB 1TB SSD RTX3060 12GB W11Pro",
+        "price": 946.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/745825/sort/5/filter/0_0_0_0/Ryzen-5-5600X-16GB-1TB-SSD-RTX3060-12GB-W11Pro-компьютер.html"
+    },
+    {
+        "id": 174,
+        "name": "Ryzen 5 5600X 32GB 250SSD RTX3060 12GB W11Pro",
+        "price": 946.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/746248/sort/5/filter/0_0_0_0/Ryzen-5-5600X-32GB-250SSD-RTX3060-12GB-W11Pro-компьютер.html"
+    },
+    {
+        "id": 175,
+        "name": "Ryzen 5 5500 32GB 1TB SSD RTX3060 12GB W11Pro",
+        "price": 946.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/746646/sort/5/filter/0_0_0_0/Ryzen-5-5500-32GB-1TB-SSD-RTX3060-12GB-W11Pro-компьютер.html"
+    },
+    {
+        "id": 176,
+        "name": "Ryzen 7 5700X 32GB 1TB SSD RTX3060 12GB W11Home",
+        "price": 949.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/764233/sort/5/filter/0_0_0_0/Ryzen-7-5700X-32GB-1TB-SSD-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 177,
+        "name": "i5-12400F 16GB 500SSD M.2 NVME+2TB RTX3060 12GB WIN11",
+        "price": 952.72,
+        "link": "https://www.rdveikals.lv/products/ru/148/549776/sort/5/filter/0_0_0_0/i5-12400F-16GB-500SSD-M.2-NVME-2TB-RTX3060-12GB-WIN11-компьютер.html"
+    },
+    {
+        "id": 178,
+        "name": "Ryzen 5 5500 16GB 500SSD+2TB RTX3060 12GB W11Pro",
+        "price": 953.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/746258/sort/5/filter/0_0_0_0/Ryzen-5-5500-16GB-500SSD-2TB-RTX3060-12GB-W11Pro-компьютер.html"
+    },
+    {
+        "id": 179,
+        "name": "i7-12700F 16GB 500SSD RTX3060 12GB DOS",
+        "price": 955.31,
+        "link": "https://www.rdveikals.lv/products/ru/148/689219/sort/5/filter/0_0_0_0/i7-12700F-16GB-500SSD-RTX3060-12GB-DOS-компьютер.html"
+    },
+    {
+        "id": 180,
+        "name": "Ryzen 5 5600X 32GB 500SSD+2TB RTX3060 12GB W11Home",
+        "price": 956.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/744742/sort/5/filter/0_0_0_0/Ryzen-5-5600X-32GB-500SSD-2TB-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 181,
+        "name": "Ryzen 7 5700X 16GB 500SSD+2TB RTX3060 12GB W11Home",
+        "price": 956.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/764229/sort/5/filter/0_0_0_0/Ryzen-7-5700X-16GB-500SSD-2TB-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 182,
+        "name": "Ryzen 5 5600X 32GB 500SSD RTX3060 12GB W11Pro",
+        "price": 959.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/746249/sort/5/filter/0_0_0_0/Ryzen-5-5600X-32GB-500SSD-RTX3060-12GB-W11Pro-компьютер.html"
+    },
+    {
+        "id": 183,
+        "name": "Ryzen 7 5700X 16GB 250SSD M.2 NVME+2TB RTX3060 12GB WIN11",
+        "price": 961.06,
+        "link": "https://www.rdveikals.lv/products/ru/148/689262/sort/5/filter/0_0_0_0/Ryzen-7-5700X-16GB-250SSD-M.2-NVME-2TB-RTX3060-12GB-WIN11-компьютер.html"
+    },
+    {
+        "id": 184,
+        "name": "Ryzen 7 5700X 16GB 250SSD M.2 NVME RTX3060 12GB WIN11Pro",
+        "price": 963.65,
+        "link": "https://www.rdveikals.lv/products/ru/148/689338/sort/5/filter/0_0_0_0/Ryzen-7-5700X-16GB-250SSD-M.2-NVME-RTX3060-12GB-WIN11Pro-компьютер.html"
+    },
+    {
+        "id": 185,
+        "name": "AQUA i5-13400F 32GB 1TB SSD RTX3060 12GB no-OS",
+        "price": 966.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/770274/sort/5/filter/0_0_0_0/AQUA-i5-13400F-32GB-1TB-SSD-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 186,
+        "name": "AQUA i5-13400F 16GB 500SSD+2TB RTX3060 12GB no-OS",
+        "price": 966.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/770276/sort/5/filter/0_0_0_0/AQUA-i5-13400F-16GB-500SSD-2TB-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 187,
+        "name": "Ryzen 7 5700X 32GB 1TB SSD M.2 NVME RTX3060 12GB WIN11",
+        "price": 967.27,
+        "link": "https://www.rdveikals.lv/products/ru/148/689266/sort/5/filter/0_0_0_0/Ryzen-7-5700X-32GB-1TB-SSD-M.2-NVME-RTX3060-12GB-WIN11-компьютер.html"
+    },
+    {
+        "id": 188,
+        "name": "AQUA Ryzen 5 7600X 16GB 500SSD RTX3060 12GB no-OS",
+        "price": 972.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/770306/sort/5/filter/0_0_0_0/AQUA-Ryzen-5-7600X-16GB-500SSD-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 189,
+        "name": "Ryzen 7 5700X 16GB 500SSD M.2 NVME+2TB RTX3060 12GB WIN11",
+        "price": 973.58,
+        "link": "https://www.rdveikals.lv/products/ru/148/689263/sort/5/filter/0_0_0_0/Ryzen-7-5700X-16GB-500SSD-M.2-NVME-2TB-RTX3060-12GB-WIN11-компьютер.html"
+    },
+    {
+        "id": 190,
+        "name": "i7-12700F 32GB 500SSD M.2 NVME+2TB RTX3060 12GB WIN11Pro",
+        "price": 1221.52,
+        "link": "https://www.rdveikals.lv/products/ru/148/689324/sort/5/filter/0_0_0_0/i7-12700F-32GB-500SSD-M.2-NVME-2TB-RTX3060-12GB-WIN11Pro-компьютер.html"
+    },
+    {
+        "id": 191,
+        "name": "AQUA Ryzen 5 7600X 32GB 1TB SSD RTX3060 12GB W11Pro",
+        "price": 1221.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/747127/sort/5/filter/0_0_0_0/AQUA-Ryzen-5-7600X-32GB-1TB-SSD-RTX3060-12GB-W11Pro-компьютер.html"
+    },
+    {
+        "id": 192,
+        "name": "AQUA Ryzen 5 7600X 16GB 500SSD+2TB RTX3060 12GB W11Pro",
+        "price": 1221.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/747129/sort/5/filter/0_0_0_0/AQUA-Ryzen-5-7600X-16GB-500SSD-2TB-RTX3060-12GB-W11Pro-компьютер.html"
+    },
+    {
+        "id": 193,
+        "name": "AQUA Ryzen 7 7700X 16GB 2TB SSD+2TB RTX3060 12GB no-OS",
+        "price": 1221.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/761257/sort/5/filter/0_0_0_0/AQUA-Ryzen-7-7700X-16GB-2TB-SSD-2TB-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 194,
+        "name": "AQUA i5-13400F 16GB 2TB SSD+2TB RTX3060 12GB W11Pro",
+        "price": 1221.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/770302/sort/5/filter/0_0_0_0/AQUA-i5-13400F-16GB-2TB-SSD-2TB-RTX3060-12GB-W11Pro-компьютер.html"
+    },
+    {
+        "id": 195,
+        "name": "AQUA i7-14700F 16GB 500SSD RTX3060 12GB W11Home",
+        "price": 1223.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/761473/sort/5/filter/0_0_0_0/AQUA-i7-14700F-16GB-500SSD-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 196,
+        "name": "AQUA Ryzen 7 7700X 32GB 1 TB SSD RTX3060 12GB W11Home",
+        "price": 1224.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/767439/sort/5/filter/0_0_0_0/AQUA-Ryzen-7-7700X-32GB-1-TB-SSD-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 197,
+        "name": "AQUA Ryzen 7 7700X 16GB 500 SSD+2TB RTX3060 12GB W11Home",
+        "price": 1224.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/767441/sort/5/filter/0_0_0_0/AQUA-Ryzen-7-7700X-16GB-500-SSD-2TB-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 198,
+        "name": "AQUA Ryzen 5 7600X 16GB 2 TB SSD+2TB RTX3060 12GB W11Home",
+        "price": 1224.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/770325/sort/5/filter/0_0_0_0/AQUA-Ryzen-5-7600X-16GB-2-TB-SSD-2TB-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 199,
+        "name": "AQUA Ryzen 7 7700X 16GB 500 SSD RTX3060 12GB W11Pro",
+        "price": 1227.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/767447/sort/5/filter/0_0_0_0/AQUA-Ryzen-7-7700X-16GB-500-SSD-RTX3060-12GB-W11Pro-компьютер.html"
+    },
+    {
+        "id": 200,
+        "name": "AQUA Ryzen 5 7600X 16GB 2TB SSD RTX3060 12GB W11Pro",
+        "price": 1227.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/770790/sort/5/filter/0_0_0_0/AQUA-Ryzen-5-7600X-16GB-2TB-SSD-RTX3060-12GB-W11Pro-компьютер.html"
+    },
+    {
+        "id": 201,
+        "name": "AQUA i7-14700F 32GB 500SSD+2TB RTX3060 12GB no-OS",
+        "price": 1228.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/761470/sort/5/filter/0_0_0_0/AQUA-i7-14700F-32GB-500SSD-2TB-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 202,
+        "name": "AQUA Ryzen 5 7600X 16GB 1 TB SSD+2TB RTX3060 12GB W11Pro",
+        "price": 1230.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/770795/sort/5/filter/0_0_0_0/AQUA-Ryzen-5-7600X-16GB-1-TB-SSD-2TB-RTX3060-12GB-W11Pro-компьютер.html"
+    },
+    {
+        "id": 203,
+        "name": "AQUA Ryzen 7 7700X 16GB 2TB SSD RTX3060 12GB W11Home",
+        "price": 1235.72,
+        "link": "https://www.rdveikals.lv/products/ru/148/761263/sort/5/filter/0_0_0_0/AQUA-Ryzen-7-7700X-16GB-2TB-SSD-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 204,
+        "name": "AQUA Ryzen 5 7600X 16GB 2TB SSD+2TB RTX3060 12GB W11Home",
+        "price": 1238.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/747119/sort/5/filter/0_0_0_0/AQUA-Ryzen-5-7600X-16GB-2TB-SSD-2TB-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 205,
+        "name": "AQUA Ryzen 7 7700X 32GB 1TB SSD RTX3060 12GB W11Home",
+        "price": 1238.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/761265/sort/5/filter/0_0_0_0/AQUA-Ryzen-7-7700X-32GB-1TB-SSD-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 206,
+        "name": "AQUA Ryzen 7 7700X 16GB 500SSD+2TB RTX3060 12GB W11Home",
+        "price": 1238.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/761267/sort/5/filter/0_0_0_0/AQUA-Ryzen-7-7700X-16GB-500SSD-2TB-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 207,
+        "name": "AQUA Ryzen 5 7600X 16GB 2TB SSD M.2 NVME RTX3060 12GB W11Pro",
+        "price": 1241.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/747125/sort/5/filter/0_0_0_0/AQUA-Ryzen-5-7600X-16GB-2TB-SSD-M.2-NVME-RTX3060-12GB-W11Pro-компьютер.html"
+    },
+    {
+        "id": 208,
+        "name": "i7-12700F 32GB 500SSD M.2 NVME RTX3060 12GB no-OS",
+        "price": 990.71,
+        "link": "https://www.rdveikals.lv/products/ru/148/689225/sort/5/filter/0_0_0_0/i7-12700F-32GB-500SSD-M.2-NVME-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 209,
+        "name": "Ryzen 7 5700X 32GB 500SSD+2TB RTX3060 12GB W11Home",
+        "price": 992.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/764235/sort/5/filter/0_0_0_0/Ryzen-7-5700X-32GB-500SSD-2TB-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 210,
+        "name": "Ryzen 7 5700X 16GB 1TB SSD M.2 NVME+2TB RTX3060 12GB WIN11",
+        "price": 995.82,
+        "link": "https://www.rdveikals.lv/products/ru/148/689264/sort/5/filter/0_0_0_0/Ryzen-7-5700X-16GB-1TB-SSD-M.2-NVME-2TB-RTX3060-12GB-WIN11-компьютер.html"
+    },
+    {
+        "id": 211,
+        "name": "AQUA Ryzen 5 7600X 16GB 1TB SSD RTX3060 12GB no-OS",
+        "price": 995.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/770307/sort/5/filter/0_0_0_0/AQUA-Ryzen-5-7600X-16GB-1TB-SSD-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 212,
+        "name": "Ryzen 7 5700X 32GB 250SSD M.2 NVME+2TB RTX3060 12GB WIN11",
+        "price": 996.47,
+        "link": "https://www.rdveikals.lv/products/ru/148/689243/sort/5/filter/0_0_0_0/Ryzen-7-5700X-32GB-250SSD-M.2-NVME-2TB-RTX3060-12GB-WIN11-компьютер.html"
+    },
+    {
+        "id": 213,
+        "name": "Ryzen 7 5700X 16GB 1TB SSD M.2 NVME RTX3060 12GB WIN11Pro",
+        "price": 998.41,
+        "link": "https://www.rdveikals.lv/products/ru/148/689327/sort/5/filter/0_0_0_0/Ryzen-7-5700X-16GB-1TB-SSD-M.2-NVME-RTX3060-12GB-WIN11Pro-компьютер.html"
+    },
+    {
+        "id": 214,
+        "name": "Ryzen 7 5700X 32GB 250SSD M.2 NVME RTX3060 12GB WIN11Pro",
+        "price": 999.05,
+        "link": "https://www.rdveikals.lv/products/ru/148/689331/sort/5/filter/0_0_0_0/Ryzen-7-5700X-32GB-250SSD-M.2-NVME-RTX3060-12GB-WIN11Pro-компьютер.html"
+    },
+    {
+        "id": 215,
+        "name": "AQUA i5-13400F 16GB 500SSD RTX3060 12GB W11Home",
+        "price": 1003.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/770282/sort/5/filter/0_0_0_0/AQUA-i5-13400F-16GB-500SSD-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 216,
+        "name": "i7-12700F 16GB 250SSD M.2 NVME+2TB RTX3060 12GB no-OS",
+        "price": 1006.75,
+        "link": "https://www.rdveikals.lv/products/ru/148/689221/sort/5/filter/0_0_0_0/i7-12700F-16GB-250SSD-M.2-NVME-2TB-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 217,
+        "name": "Ryzen 7 5700X 32GB 500SSD M.2 NVME+2TB RTX3060 12GB WIN11",
+        "price": 1008.98,
+        "link": "https://www.rdveikals.lv/products/ru/148/689244/sort/5/filter/0_0_0_0/Ryzen-7-5700X-32GB-500SSD-M.2-NVME-2TB-RTX3060-12GB-WIN11-компьютер.html"
+    },
+    {
+        "id": 218,
+        "name": "AQUA Ryzen 5 7600X 16GB DDR5 1TB SSD RTX3060 12GB no-OS",
+        "price": 1009.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/746651/sort/5/filter/0_0_0_0/AQUA-Ryzen-5-7600X-16GB-DDR5-1TB-SSD-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 219,
+        "name": "AQUA i5-13400F 32GB 500SSD+2TB RTX3060 12GB no-OS",
+        "price": 1009.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/770279/sort/5/filter/0_0_0_0/AQUA-i5-13400F-32GB-500SSD-2TB-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 220,
+        "name": "Ryzen 7 5700X 32GB 500SSD M.2 NVME RTX3060 12GB WIN11Pro",
+        "price": 1011.57,
+        "link": "https://www.rdveikals.lv/products/ru/148/689332/sort/5/filter/0_0_0_0/Ryzen-7-5700X-32GB-500SSD-M.2-NVME-RTX3060-12GB-WIN11Pro-компьютер.html"
+    },
+    {
+        "id": 221,
+        "name": "Ryzen 5 5600X 16GB 1TB SSD+2TB RTX3060 12GB W11Pro",
+        "price": 1011.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/745828/sort/5/filter/0_0_0_0/Ryzen-5-5600X-16GB-1TB-SSD-2TB-RTX3060-12GB-W11Pro-компьютер.html"
+    },
+    {
+        "id": 222,
+        "name": "Ryzen 5 5600X 32GB 250SSD+2TB RTX3060 12GB W11Pro",
+        "price": 1011.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/746251/sort/5/filter/0_0_0_0/Ryzen-5-5600X-32GB-250SSD-2TB-RTX3060-12GB-W11Pro-компьютер.html"
+    },
+    {
+        "id": 223,
+        "name": "Ryzen 5 5500 32GB 1TB SSD+2TB RTX3060 12GB W11Pro",
+        "price": 1011.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/746649/sort/5/filter/0_0_0_0/Ryzen-5-5500-32GB-1TB-SSD-2TB-RTX3060-12GB-W11Pro-компьютер.html"
+    },
+    {
+        "id": 224,
+        "name": "i7-12700F 32GB 1TB SSD M.2 NVME RTX3060 12GB no-OS",
+        "price": 1012.95,
+        "link": "https://www.rdveikals.lv/products/ru/148/689226/sort/5/filter/0_0_0_0/i7-12700F-32GB-1TB-SSD-M.2-NVME-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 225,
+        "name": "AQUA Ryzen 5 7600X 32GB 500SSD RTX3060 12GB no-OS",
+        "price": 1014.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/770309/sort/5/filter/0_0_0_0/AQUA-Ryzen-5-7600X-32GB-500SSD-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 226,
+        "name": "AQUA Ryzen 7 7700X 32GB 2TB SSD RTX3060 12GB W11Home",
+        "price": 1301.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/761266/sort/5/filter/0_0_0_0/AQUA-Ryzen-7-7700X-32GB-2TB-SSD-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 227,
+        "name": "AQUA Ryzen 7 7700X 32GB 1TB SSD+2TB RTX3060 12GB W11Home",
+        "price": 1303.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/761271/sort/5/filter/0_0_0_0/AQUA-Ryzen-7-7700X-32GB-1TB-SSD-2TB-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 228,
+        "name": "AQUA Ryzen 5 7600X 16GB 2TB SSD+2TB RTX3060 12GB W11Pro",
+        "price": 1306.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/747131/sort/5/filter/0_0_0_0/AQUA-Ryzen-5-7600X-16GB-2TB-SSD-2TB-RTX3060-12GB-W11Pro-компьютер.html"
+    },
+    {
+        "id": 229,
+        "name": "AQUA Ryzen 7 7700X 32GB 1TB SSD RTX3060 12GB W11Pro",
+        "price": 1306.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/761277/sort/5/filter/0_0_0_0/AQUA-Ryzen-7-7700X-32GB-1TB-SSD-RTX3060-12GB-W11Pro-компьютер.html"
+    },
+    {
+        "id": 230,
+        "name": "AQUA Ryzen 7 7700X 16GB 500SSD+2TB RTX3060 12GB W11Pro",
+        "price": 1306.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/761279/sort/5/filter/0_0_0_0/AQUA-Ryzen-7-7700X-16GB-500SSD-2TB-RTX3060-12GB-W11Pro-компьютер.html"
+    },
+    {
+        "id": 231,
+        "name": "AQUA i7-14700F 16GB 2TB SSD RTX3060 12GB W11Home",
+        "price": 1308.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/761475/sort/5/filter/0_0_0_0/AQUA-i7-14700F-16GB-2TB-SSD-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 232,
+        "name": "AQUA Ryzen 7 7700X 16GB 2 TB SSD+2TB RTX3060 12GB W11Home",
+        "price": 1309.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/767443/sort/5/filter/0_0_0_0/AQUA-Ryzen-7-7700X-16GB-2-TB-SSD-2TB-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 233,
+        "name": "AQUA i7-14700F 16GB 1TB SSD+2TB RTX3060 12GB W11Home",
+        "price": 1311.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/761480/sort/5/filter/0_0_0_0/AQUA-i7-14700F-16GB-1TB-SSD-2TB-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 234,
+        "name": "AQUA Ryzen 7 7700X 16GB 2 TB SSD RTX3060 12GB W11Pro",
+        "price": 1312.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/767449/sort/5/filter/0_0_0_0/AQUA-Ryzen-7-7700X-16GB-2-TB-SSD-RTX3060-12GB-W11Pro-компьютер.html"
+    },
+    {
+        "id": 235,
+        "name": "AQUA i7-14700F 32GB 2TB SSD+2TB RTX3060 12GB no-OS",
+        "price": 1313.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/761472/sort/5/filter/0_0_0_0/AQUA-i7-14700F-32GB-2TB-SSD-2TB-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 236,
+        "name": "AQUA i7-14700F 16GB 1TB SSD RTX3060 12GB W11Pro",
+        "price": 1313.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/761486/sort/5/filter/0_0_0_0/AQUA-i7-14700F-16GB-1TB-SSD-RTX3060-12GB-W11Pro-компьютер.html"
+    },
+    {
+        "id": 237,
+        "name": "AQUA Ryzen 7 7700X 16GB 1 TB SSD+2TB RTX3060 12GB W11Pro",
+        "price": 1315.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/767454/sort/5/filter/0_0_0_0/AQUA-Ryzen-7-7700X-16GB-1-TB-SSD-2TB-RTX3060-12GB-W11Pro-компьютер.html"
+    },
+    {
+        "id": 238,
+        "name": "AQUA Ryzen 7 7700X 16GB 2TB SSD+2TB RTX3060 12GB W11Home",
+        "price": 1323.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/761269/sort/5/filter/0_0_0_0/AQUA-Ryzen-7-7700X-16GB-2TB-SSD-2TB-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 239,
+        "name": "AQUA Ryzen 7 7700X 16GB 2TB SSD RTX3060 12GB W11Pro",
+        "price": 1326.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/761275/sort/5/filter/0_0_0_0/AQUA-Ryzen-7-7700X-16GB-2TB-SSD-RTX3060-12GB-W11Pro-компьютер.html"
+    },
+    {
+        "id": 240,
+        "name": "AQUA Ryzen 7 7700X 16GB 1TB SSD+2TB RTX3060 12GB W11Pro",
+        "price": 1329.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/761280/sort/5/filter/0_0_0_0/AQUA-Ryzen-7-7700X-16GB-1TB-SSD-2TB-RTX3060-12GB-W11Pro-компьютер.html"
+    },
+    {
+        "id": 241,
+        "name": "AQUA i7-14700F 32GB 500SSD+2TB RTX3060 12GB W11Home",
+        "price": 1330.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/761482/sort/5/filter/0_0_0_0/AQUA-i7-14700F-32GB-500SSD-2TB-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 242,
+        "name": "AQUA i7-14700F 32GB 500SSD RTX3060 12GB W11Pro",
+        "price": 1333.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/761488/sort/5/filter/0_0_0_0/AQUA-i7-14700F-32GB-500SSD-RTX3060-12GB-W11Pro-компьютер.html"
+    },
+    {
+        "id": 243,
+        "name": "AQUA Ryzen 7 7700X 32GB 500 SSD+2TB RTX3060 12GB W11Pro",
+        "price": 1334.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/767456/sort/5/filter/0_0_0_0/AQUA-Ryzen-7-7700X-32GB-500-SSD-2TB-RTX3060-12GB-W11Pro-компьютер.html"
+    },
+    {
+        "id": 244,
+        "name": "Ryzen 5 5500 32GB 500SSD+2TB RTX3060 12GB W11Home",
+        "price": 921.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/745821/sort/5/filter/0_0_0_0/Ryzen-5-5500-32GB-500SSD-2TB-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 245,
+        "name": "Ryzen 5 5600X 16GB 500SSD RTX3060 12GB W11Pro",
+        "price": 923.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/745824/sort/5/filter/0_0_0_0/Ryzen-5-5600X-16GB-500SSD-RTX3060-12GB-W11Pro-компьютер.html"
+    },
+    {
+        "id": 246,
+        "name": "i5-12400F 32GB 500SSD M.2 NVME RTX3060 12GB WIN11",
+        "price": 924.17,
+        "link": "https://www.rdveikals.lv/products/ru/148/549690/sort/5/filter/0_0_0_0/i5-12400F-32GB-500SSD-M.2-NVME-RTX3060-12GB-WIN11-компьютер.html"
+    },
+    {
+        "id": 247,
+        "name": "Ryzen 5 5500 32GB 500SSD RTX3060 12GB W11Pro",
+        "price": 924.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/761294/sort/5/filter/0_0_0_0/Ryzen-5-5500-32GB-500SSD-RTX3060-12GB-W11Pro-компьютер.html"
+    },
+    {
+        "id": 248,
+        "name": "AQUA i5-13400F 16GB 1TB SSD RTX3060 12GB no-OS",
+        "price": 924.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/769624/sort/5/filter/0_0_0_0/AQUA-i5-13400F-16GB-1TB-SSD-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 249,
+        "name": "Ryzen 7 5700X 32GB 500SSD RTX3060 12GB W11Home",
+        "price": 927.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/764232/sort/5/filter/0_0_0_0/Ryzen-7-5700X-32GB-500SSD-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 250,
+        "name": "Ryzen 7 5700X 32GB 1TB SSD M.2 NVME+2TB RTX3060 12GB no-OS",
+        "price": 930.93,
+        "link": "https://www.rdveikals.lv/products/ru/148/689239/sort/5/filter/0_0_0_0/Ryzen-7-5700X-32GB-1TB-SSD-M.2-NVME-2TB-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 251,
+        "name": "Ryzen 7 5700X 16GB 1TB SSD M.2 NVME RTX3060 12GB WIN11",
+        "price": 931.87,
+        "link": "https://www.rdveikals.lv/products/ru/148/689261/sort/5/filter/0_0_0_0/Ryzen-7-5700X-16GB-1TB-SSD-M.2-NVME-RTX3060-12GB-WIN11-компьютер.html"
+    },
+    {
+        "id": 252,
+        "name": "Ryzen 7 5700X 32GB 250SSD M.2 NVME RTX3060 12GB WIN11",
+        "price": 932.51,
+        "link": "https://www.rdveikals.lv/products/ru/148/689267/sort/5/filter/0_0_0_0/Ryzen-7-5700X-32GB-250SSD-M.2-NVME-RTX3060-12GB-WIN11-компьютер.html"
+    },
+    {
+        "id": 253,
+        "name": "i5-12400F 16GB 250SSD M.2 NVME+2TB RTX3060 12GB WIN11",
+        "price": 940.2,
+        "link": "https://www.rdveikals.lv/products/ru/148/549687/sort/5/filter/0_0_0_0/i5-12400F-16GB-250SSD-M.2-NVME-2TB-RTX3060-12GB-WIN11-компьютер.html"
+    },
+    {
+        "id": 254,
+        "name": "Ryzen 5 5500 16GB 250SSD+2TB RTX3060 12GB W11Pro",
+        "price": 940.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/746257/sort/5/filter/0_0_0_0/Ryzen-5-5500-16GB-250SSD-2TB-RTX3060-12GB-W11Pro-компьютер.html"
+    },
+    {
+        "id": 255,
+        "name": "i7-12700F 16GB 250SSD M.2 NVME RTX3060 12GB no-OS",
+        "price": 942.79,
+        "link": "https://www.rdveikals.lv/products/ru/148/689218/sort/5/filter/0_0_0_0/i7-12700F-16GB-250SSD-M.2-NVME-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 256,
+        "name": "Ryzen 5 5600X 16GB 1TB SSD+2TB RTX3060 12GB W11Home",
+        "price": 943.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/744737/sort/5/filter/0_0_0_0/Ryzen-5-5600X-16GB-1TB-SSD-2TB-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 257,
+        "name": "Ryzen 7 5700X 16GB 250SSD+2TB RTX3060 12GB W11Home",
+        "price": 943.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/764228/sort/5/filter/0_0_0_0/Ryzen-7-5700X-16GB-250SSD-2TB-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 258,
+        "name": "Ryzen 5 5600X 32GB 250SSD+2TB RTX3060 12GB W11Home",
+        "price": 944.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/744741/sort/5/filter/0_0_0_0/Ryzen-5-5600X-32GB-250SSD-2TB-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 259,
+        "name": "Ryzen 5 5500 32GB 1TB SSD+2TB RTX3060 12GB W11Home",
+        "price": 944.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/745822/sort/5/filter/0_0_0_0/Ryzen-5-5500-32GB-1TB-SSD-2TB-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 260,
+        "name": "AQUA i5-13400F 32GB 500SSD RTX3060 12GB no-OS",
+        "price": 944.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/770273/sort/5/filter/0_0_0_0/AQUA-i5-13400F-32GB-500SSD-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 261,
+        "name": "Ryzen 7 5700X 32GB 500SSD M.2 NVME RTX3060 12GB WIN11",
+        "price": 945.03,
+        "link": "https://www.rdveikals.lv/products/ru/148/689265/sort/5/filter/0_0_0_0/Ryzen-7-5700X-32GB-500SSD-M.2-NVME-RTX3060-12GB-WIN11-компьютер.html"
+    },
+    {
+        "id": 262,
+        "name": "Ryzen 5 5500 16GB 250SSD RTX3060 12GB W11Pro",
+        "price": 875.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/746254/sort/5/filter/0_0_0_0/Ryzen-5-5500-16GB-250SSD-RTX3060-12GB-W11Pro-компьютер.html"
+    },
+    {
+        "id": 263,
+        "name": "i5-12400F 16GB 250SSD M.2 NVME RTX3060 12GB WIN11",
+        "price": 876.25,
+        "link": "https://www.rdveikals.lv/products/ru/148/549684/sort/5/filter/0_0_0_0/i5-12400F-16GB-250SSD-M.2-NVME-RTX3060-12GB-WIN11-компьютер.html"
+    },
+    {
+        "id": 264,
+        "name": "Ryzen 7 5700X 16GB 1TB SSD+2TB RTX3060 12GB no-OS",
+        "price": 876.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/764218/sort/5/filter/0_0_0_0/Ryzen-7-5700X-16GB-1TB-SSD-2TB-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 265,
+        "name": "Ryzen 5 5600X 32GB 1TB SSD+2TB RTX3060 12GB no-OS",
+        "price": 877.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/744719/sort/5/filter/0_0_0_0/Ryzen-5-5600X-32GB-1TB-SSD-2TB-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 266,
+        "name": "Ryzen 7 5700X 32GB 250SSD+2TB RTX3060 12GB no-OS",
+        "price": 877.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/764222/sort/5/filter/0_0_0_0/Ryzen-7-5700X-32GB-250SSD-2TB-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 267,
+        "name": "Ryzen 5 5600X 16GB 1TB SSD RTX3060 12GB W11Home",
+        "price": 878.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/744734/sort/5/filter/0_0_0_0/Ryzen-5-5600X-16GB-1TB-SSD-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 268,
+        "name": "Ryzen 5 5600X 32GB 250SSD RTX3060 12GB W11Home",
+        "price": 878.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/744738/sort/5/filter/0_0_0_0/Ryzen-5-5600X-32GB-250SSD-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 269,
+        "name": "Ryzen 5 5500 32GB 1TB SSD RTX3060 12GB W11Home",
+        "price": 878.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/745819/sort/5/filter/0_0_0_0/Ryzen-5-5500-32GB-1TB-SSD-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 270,
+        "name": "Ryzen 7 5700X 16GB 250SSD RTX3060 12GB W11Home",
+        "price": 878.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/764225/sort/5/filter/0_0_0_0/Ryzen-7-5700X-16GB-250SSD-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 271,
+        "name": "Ryzen 5 5500 16GB 500SSD+2TB RTX3060 12GB W11Home",
+        "price": 885.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/745815/sort/5/filter/0_0_0_0/Ryzen-5-5500-16GB-500SSD-2TB-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 272,
+        "name": "i5-12400F 32GB 500SSD M.2 NVME+2TB RTX3060 12GB no-OS",
+        "price": 887.81,
+        "link": "https://www.rdveikals.lv/products/ru/148/549627/sort/5/filter/0_0_0_0/i5-12400F-32GB-500SSD-M.2-NVME-2TB-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 273,
+        "name": "i5-12400F 16GB 500SSD M.2 NVME RTX3060 12GB WIN11",
+        "price": 888.77,
+        "link": "https://www.rdveikals.lv/products/ru/148/549685/sort/5/filter/0_0_0_0/i5-12400F-16GB-500SSD-M.2-NVME-RTX3060-12GB-WIN11-компьютер.html"
+    },
+    {
+        "id": 274,
+        "name": "Ryzen 5 5500 16GB 500SSD RTX3060 12GB W11Pro",
+        "price": 888.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/746255/sort/5/filter/0_0_0_0/Ryzen-5-5500-16GB-500SSD-RTX3060-12GB-W11Pro-компьютер.html"
+    },
+    {
+        "id": 275,
+        "name": "Ryzen 7 5700X 32GB 500SSD+2TB RTX3060 12GB no-OS",
+        "price": 890.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/764223/sort/5/filter/0_0_0_0/Ryzen-7-5700X-32GB-500SSD-2TB-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 276,
+        "name": "Ryzen 5 5600X 32GB 500SSD RTX3060 12GB W11Home",
+        "price": 891.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/744739/sort/5/filter/0_0_0_0/Ryzen-5-5600X-32GB-500SSD-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 277,
+        "name": "Ryzen 7 5700X 16GB 500SSD RTX3060 12GB W11Home",
+        "price": 891.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/764226/sort/5/filter/0_0_0_0/Ryzen-7-5700X-16GB-500SSD-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 278,
+        "name": "Ryzen 7 5700X 16GB 1TB SSD M.2 NVME+2TB RTX3060 12GB no-OS",
+        "price": 895.51,
+        "link": "https://www.rdveikals.lv/products/ru/148/689235/sort/5/filter/0_0_0_0/Ryzen-7-5700X-16GB-1TB-SSD-M.2-NVME-2TB-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 279,
+        "name": "Ryzen 7 5700X 32GB 250SSD+2TB RTX3060 12GB DOS",
+        "price": 896.16,
+        "link": "https://www.rdveikals.lv/products/ru/148/689238/sort/5/filter/0_0_0_0/Ryzen-7-5700X-32GB-250SSD-2TB-RTX3060-12GB-DOS-компьютер.html"
+    },
+    {
+        "id": 280,
+        "name": "AQUA Ryzen 7 7700X 16GB 500SSD RTX3060 12GB W11Pro",
+        "price": 1241.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/761273/sort/5/filter/0_0_0_0/AQUA-Ryzen-7-7700X-16GB-500SSD-RTX3060-12GB-W11Pro-компьютер.html"
+    },
+    {
+        "id": 281,
+        "name": "i7-12700F 32GB 1TB SSD M.2 NVME+2TB RTX3060 12GB WIN11Pro",
+        "price": 1243.77,
+        "link": "https://www.rdveikals.lv/products/ru/148/689325/sort/5/filter/0_0_0_0/i7-12700F-32GB-1TB-SSD-M.2-NVME-2TB-RTX3060-12GB-WIN11Pro-компьютер.html"
+    },
+    {
+        "id": 282,
+        "name": "AQUA Ryzen 5 7600X 16GB 1TB SSD+2TB RTX3060 12GB W11Pro",
+        "price": 1244.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/747130/sort/5/filter/0_0_0_0/AQUA-Ryzen-5-7600X-16GB-1TB-SSD-2TB-RTX3060-12GB-W11Pro-компьютер.html"
+    },
+    {
+        "id": 283,
+        "name": "AQUA Ryzen 7 7700X 16GB 2 TB SSD RTX3060 12GB W11Home",
+        "price": 1244.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/767437/sort/5/filter/0_0_0_0/AQUA-Ryzen-7-7700X-16GB-2-TB-SSD-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 284,
+        "name": "AQUA i7-14700F 16GB 1TB SSD RTX3060 12GB W11Home",
+        "price": 1245.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/761474/sort/5/filter/0_0_0_0/AQUA-i7-14700F-16GB-1TB-SSD-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 285,
+        "name": "AQUA Ryzen 7 7700X 16GB 1 TB SSD+2TB RTX3060 12GB W11Home",
+        "price": 1247.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/767442/sort/5/filter/0_0_0_0/AQUA-Ryzen-7-7700X-16GB-1-TB-SSD-2TB-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 286,
+        "name": "AQUA i7-14700F 32GB 2TB SSD RTX3060 12GB no-OS",
+        "price": 1248.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/761466/sort/5/filter/0_0_0_0/AQUA-i7-14700F-32GB-2TB-SSD-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 287,
+        "name": "AQUA Ryzen 7 7700X 32GB 2 TB SSD+2TB RTX3060 12GB no-OS",
+        "price": 1249.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/767434/sort/5/filter/0_0_0_0/AQUA-Ryzen-7-7700X-32GB-2-TB-SSD-2TB-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 288,
+        "name": "AQUA Ryzen 7 7700X 16GB 1 TB SSD RTX3060 12GB W11Pro",
+        "price": 1249.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/767448/sort/5/filter/0_0_0_0/AQUA-Ryzen-7-7700X-16GB-1-TB-SSD-RTX3060-12GB-W11Pro-компьютер.html"
+    },
+    {
+        "id": 289,
+        "name": "AQUA Ryzen 5 7600X 32GB 500 SSD+2TB RTX3060 12GB W11Pro",
+        "price": 1249.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/770797/sort/5/filter/0_0_0_0/AQUA-Ryzen-5-7600X-32GB-500-SSD-2TB-RTX3060-12GB-W11Pro-компьютер.html"
+    },
+    {
+        "id": 290,
+        "name": "AQUA i7-14700F 32GB 1TB SSD+2TB RTX3060 12GB no-OS",
+        "price": 1251.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/761471/sort/5/filter/0_0_0_0/AQUA-i7-14700F-32GB-1TB-SSD-2TB-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 291,
+        "name": "AQUA Ryzen 7 7700X 16GB 1TB SSD+2TB RTX3060 12GB W11Home",
+        "price": 1261.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/761268/sort/5/filter/0_0_0_0/AQUA-Ryzen-7-7700X-16GB-1TB-SSD-2TB-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 292,
+        "name": "AQUA Ryzen 5 7600X 32GB 500SSD+2TB RTX3060 12GB W11Pro",
+        "price": 1264.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/747132/sort/5/filter/0_0_0_0/AQUA-Ryzen-5-7600X-32GB-500SSD-2TB-RTX3060-12GB-W11Pro-компьютер.html"
+    },
+    {
+        "id": 293,
+        "name": "AQUA Ryzen 7 7700X 32GB 2TB SSD+2TB RTX3060 12GB no-OS",
+        "price": 1264.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/761260/sort/5/filter/0_0_0_0/AQUA-Ryzen-7-7700X-32GB-2TB-SSD-2TB-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 294,
+        "name": "AQUA Ryzen 7 7700X 16GB 1TB SSD RTX3060 12GB W11Pro",
+        "price": 1264.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/761274/sort/5/filter/0_0_0_0/AQUA-Ryzen-7-7700X-16GB-1TB-SSD-RTX3060-12GB-W11Pro-компьютер.html"
+    },
+    {
+        "id": 295,
+        "name": "AQUA i5-13400F 32GB 2TB SSD+2TB RTX3060 12GB W11Pro",
+        "price": 1264.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/770305/sort/5/filter/0_0_0_0/AQUA-i5-13400F-32GB-2TB-SSD-2TB-RTX3060-12GB-W11Pro-компьютер.html"
+    },
+    {
+        "id": 296,
+        "name": "AQUA i7-14700F 32GB 500SSD RTX3060 12GB W11Home",
+        "price": 1265.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/761476/sort/5/filter/0_0_0_0/AQUA-i7-14700F-32GB-500SSD-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 297,
+        "name": "AQUA Ryzen 7 7700X 32GB 500 SSD+2TB RTX3060 12GB W11Home",
+        "price": 1267.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/767444/sort/5/filter/0_0_0_0/AQUA-Ryzen-7-7700X-32GB-500-SSD-2TB-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 298,
+        "name": "Ryzen 7 5700X 32GB 1TB SSD+2TB RTX3060 12GB W11Home",
+        "price": 1015.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/764236/sort/5/filter/0_0_0_0/Ryzen-7-5700X-32GB-1TB-SSD-2TB-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 299,
+        "name": "i7-12700F 16GB 500SSD+2TB RTX3060 12GB DOS",
+        "price": 1019.26,
+        "link": "https://www.rdveikals.lv/products/ru/148/689222/sort/5/filter/0_0_0_0/i7-12700F-16GB-500SSD-2TB-RTX3060-12GB-DOS-компьютер.html"
+    },
+    {
+        "id": 300,
+        "name": "Ryzen 5 5600X 32GB 500SSD+2TB RTX3060 12GB W11Pro",
+        "price": 1024.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/746252/sort/5/filter/0_0_0_0/Ryzen-5-5600X-32GB-500SSD-2TB-RTX3060-12GB-W11Pro-компьютер.html"
+    },
+    {
+        "id": 301,
+        "name": "AQUA i5-13400F 16GB 1TB SSD RTX3060 12GB W11Home",
+        "price": 1026.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/770283/sort/5/filter/0_0_0_0/AQUA-i5-13400F-16GB-1TB-SSD-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 302,
+        "name": "Ryzen 7 5700X 16GB 250SSD M.2 NVME+2TB RTX3060 12GB WIN11Pro",
+        "price": 1027.6,
+        "link": "https://www.rdveikals.lv/products/ru/148/689328/sort/5/filter/0_0_0_0/Ryzen-7-5700X-16GB-250SSD-M.2-NVME-2TB-RTX3060-12GB-WIN11Pro-компьютер.html"
+    },
+    {
+        "id": 303,
+        "name": "AQUA Ryzen 5 7600X 32GB DDR5 500SSD RTX3060 12GB no-OS",
+        "price": 1028.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/746653/sort/5/filter/0_0_0_0/AQUA-Ryzen-5-7600X-32GB-DDR5-500SSD-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 304,
+        "name": "AQUA i5-13400F 32GB 2TB SSD RTX3060 12GB no-OS",
+        "price": 1028.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/770275/sort/5/filter/0_0_0_0/AQUA-i5-13400F-32GB-2TB-SSD-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 305,
+        "name": "i5-12400F 32GB 1TB SSD M.2 NVME+2TB RTX3060 12GB WIN11",
+        "price": 1029.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/549781/sort/5/filter/0_0_0_0/i5-12400F-32GB-1TB-SSD-M.2-NVME-2TB-RTX3060-12GB-WIN11-компьютер.html"
+    },
+    {
+        "id": 306,
+        "name": "Ryzen 7 5700X 32GB 1TB SSD M.2 NVME+2TB RTX3060 12GB WIN11",
+        "price": 1031.24,
+        "link": "https://www.rdveikals.lv/products/ru/148/689245/sort/5/filter/0_0_0_0/Ryzen-7-5700X-32GB-1TB-SSD-M.2-NVME-2TB-RTX3060-12GB-WIN11-компьютер.html"
+    },
+    {
+        "id": 307,
+        "name": "AQUA i5-13400F 32GB 1TB SSD+2TB RTX3060 12GB no-OS",
+        "price": 1031.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/770280/sort/5/filter/0_0_0_0/AQUA-i5-13400F-32GB-1TB-SSD-2TB-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 308,
+        "name": "Ryzen 7 5700X 32GB 1TB SSD M.2 NVME RTX3060 12GB WIN11Pro",
+        "price": 1033.81,
+        "link": "https://www.rdveikals.lv/products/ru/148/689333/sort/5/filter/0_0_0_0/Ryzen-7-5700X-32GB-1TB-SSD-M.2-NVME-RTX3060-12GB-WIN11Pro-компьютер.html"
+    },
+    {
+        "id": 309,
+        "name": "AQUA Ryzen 5 7600X 32GB 1TB SSD RTX3060 12GB no-OS",
+        "price": 1037.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/770310/sort/5/filter/0_0_0_0/AQUA-Ryzen-5-7600X-32GB-1TB-SSD-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 310,
+        "name": "AQUA Ryzen 5 7600X 16GB 500SSD+2TB RTX3060 12GB no-OS",
+        "price": 1037.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/770312/sort/5/filter/0_0_0_0/AQUA-Ryzen-5-7600X-16GB-500SSD-2TB-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 311,
+        "name": "Ryzen 7 5700X 16GB 500SSD M.2 NVME+2TB RTX3060 12GB WIN11Pro",
+        "price": 1040.12,
+        "link": "https://www.rdveikals.lv/products/ru/148/689329/sort/5/filter/0_0_0_0/Ryzen-7-5700X-16GB-500SSD-M.2-NVME-2TB-RTX3060-12GB-WIN11Pro-компьютер.html"
+    },
+    {
+        "id": 312,
+        "name": "i7-12700F 16GB 1TB SSD M.2 NVME+2TB RTX3060 12GB no-OS",
+        "price": 1041.51,
+        "link": "https://www.rdveikals.lv/products/ru/148/689223/sort/5/filter/0_0_0_0/i7-12700F-16GB-1TB-SSD-M.2-NVME-2TB-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 313,
+        "name": "i7-12700F 32GB 250SSD+2TB RTX3060 12GB DOS",
+        "price": 1042.16,
+        "link": "https://www.rdveikals.lv/products/ru/148/689227/sort/5/filter/0_0_0_0/i7-12700F-32GB-250SSD-2TB-RTX3060-12GB-DOS-компьютер.html"
+    },
+    {
+        "id": 314,
+        "name": "i7-12700F 16GB 250SSD M.2 NVME RTX3060 12GB WIN11",
+        "price": 1043.1,
+        "link": "https://www.rdveikals.lv/products/ru/148/689246/sort/5/filter/0_0_0_0/i7-12700F-16GB-250SSD-M.2-NVME-RTX3060-12GB-WIN11-компьютер.html"
+    },
+    {
+        "id": 315,
+        "name": "AQUA i5-13400F 32GB 500SSD RTX3060 12GB W11Home",
+        "price": 1046.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/770285/sort/5/filter/0_0_0_0/AQUA-i5-13400F-32GB-500SSD-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 316,
+        "name": "AQUA i5-13400F 32GB 2TB SSD RTX3060 12GB W11Home",
+        "price": 1131.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/770287/sort/5/filter/0_0_0_0/AQUA-i5-13400F-32GB-2TB-SSD-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 317,
+        "name": "AQUA i5-13400F 32GB 1TB SSD+2TB RTX3060 12GB W11Home",
+        "price": 1133.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/770292/sort/5/filter/0_0_0_0/AQUA-i5-13400F-32GB-1TB-SSD-2TB-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 318,
+        "name": "AQUA Ryzen 5 7600X 16GB DDR5 2TB SSD+2TB RTX3060 12GB no-OS",
+        "price": 1136.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/746658/sort/5/filter/0_0_0_0/AQUA-Ryzen-5-7600X-16GB-DDR5-2TB-SSD-2TB-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 319,
+        "name": "AQUA Ryzen 7 7700X 32GB 1TB SSD RTX3060 12GB no-OS",
+        "price": 1136.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/747139/sort/5/filter/0_0_0_0/AQUA-Ryzen-7-7700X-32GB-1TB-SSD-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 320,
+        "name": "AQUA Ryzen 7 7700X 16GB 500SSD+2TB RTX3060 12GB no-OS",
+        "price": 1136.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/747141/sort/5/filter/0_0_0_0/AQUA-Ryzen-7-7700X-16GB-500SSD-2TB-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 321,
+        "name": "AQUA i5-13400F 32GB 1TB SSD RTX3060 12GB W11Pro",
+        "price": 1136.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/770298/sort/5/filter/0_0_0_0/AQUA-i5-13400F-32GB-1TB-SSD-RTX3060-12GB-W11Pro-компьютер.html"
+    },
+    {
+        "id": 322,
+        "name": "AQUA i5-13400F 16GB 500SSD+2TB RTX3060 12GB W11Pro",
+        "price": 1136.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/770300/sort/5/filter/0_0_0_0/AQUA-i5-13400F-16GB-500SSD-2TB-RTX3060-12GB-W11Pro-компьютер.html"
+    },
+    {
+        "id": 323,
+        "name": "AQUA Ryzen 5 7600X 16GB 500 SSD+2TB RTX3060 12GB W11Home",
+        "price": 1139.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/770323/sort/5/filter/0_0_0_0/AQUA-Ryzen-5-7600X-16GB-500-SSD-2TB-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 324,
+        "name": "i7-12700F 16GB 1TB SSD M.2 NVME+2TB RTX3060 12GB WIN11",
+        "price": 1141.82,
+        "link": "https://www.rdveikals.lv/products/ru/148/689251/sort/5/filter/0_0_0_0/i7-12700F-16GB-1TB-SSD-M.2-NVME-2TB-RTX3060-12GB-WIN11-компьютер.html"
+    },
+    {
+        "id": 325,
+        "name": "i7-12700F 32GB 250SSD M.2 NVME+2TB RTX3060 12GB WIN11",
+        "price": 1142.47,
+        "link": "https://www.rdveikals.lv/products/ru/148/689255/sort/5/filter/0_0_0_0/i7-12700F-32GB-250SSD-M.2-NVME-2TB-RTX3060-12GB-WIN11-компьютер.html"
+    },
+    {
+        "id": 326,
+        "name": "AQUA Ryzen 7 7700X 16GB 2 TB SSD RTX3060 12GB no-OS",
+        "price": 1142.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/767010/sort/5/filter/0_0_0_0/AQUA-Ryzen-7-7700X-16GB-2-TB-SSD-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 327,
+        "name": "AQUA Ryzen 5 7600X 16GB 500 SSD RTX3060 12GB W11Pro",
+        "price": 1142.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/770788/sort/5/filter/0_0_0_0/AQUA-Ryzen-5-7600X-16GB-500-SSD-RTX3060-12GB-W11Pro-компьютер.html"
+    },
+    {
+        "id": 328,
+        "name": "AQUA i7-14700F 16GB 1TB SSD RTX3060 12GB no-OS",
+        "price": 1143.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/761462/sort/5/filter/0_0_0_0/AQUA-i7-14700F-16GB-1TB-SSD-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 329,
+        "name": "i7-12700F 16GB 1TB SSD M.2 NVME RTX3060 12GB WIN11Pro",
+        "price": 1144.4,
+        "link": "https://www.rdveikals.lv/products/ru/148/689316/sort/5/filter/0_0_0_0/i7-12700F-16GB-1TB-SSD-M.2-NVME-RTX3060-12GB-WIN11Pro-компьютер.html"
+    },
+    {
+        "id": 330,
+        "name": "i7-12700F 32GB 250SSD M.2 NVME RTX3060 12GB WIN11Pro",
+        "price": 1145.04,
+        "link": "https://www.rdveikals.lv/products/ru/148/689320/sort/5/filter/0_0_0_0/i7-12700F-32GB-250SSD-M.2-NVME-RTX3060-12GB-WIN11Pro-компьютер.html"
+    },
+    {
+        "id": 331,
+        "name": "AQUA Ryzen 7 7700X 16GB 1 TB SSD+2TB RTX3060 12GB no-OS",
+        "price": 1145.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/767430/sort/5/filter/0_0_0_0/AQUA-Ryzen-7-7700X-16GB-1-TB-SSD-2TB-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 332,
+        "name": "AQUA Ryzen 5 7600X 32GB 1TB SSD RTX3060 12GB W11Home",
+        "price": 1153.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/747115/sort/5/filter/0_0_0_0/AQUA-Ryzen-5-7600X-32GB-1TB-SSD-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 333,
+        "name": "AQUA Ryzen 5 7600X 16GB 500SSD+2TB RTX3060 12GB W11Home",
+        "price": 1153.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/747117/sort/5/filter/0_0_0_0/AQUA-Ryzen-5-7600X-16GB-500SSD-2TB-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 334,
+        "name": "AQUA Ryzen 5 7600X 16GB 1TB SSD+2TB RTX3060 12GB W11Home",
+        "price": 1176.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/747118/sort/5/filter/0_0_0_0/AQUA-Ryzen-5-7600X-16GB-1TB-SSD-2TB-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 335,
+        "name": "i7-12700F 32GB 1TB SSD M.2 NVME+2TB RTX3060 12GB WIN11",
+        "price": 1177.23,
+        "link": "https://www.rdveikals.lv/products/ru/148/689257/sort/5/filter/0_0_0_0/i7-12700F-32GB-1TB-SSD-M.2-NVME-2TB-RTX3060-12GB-WIN11-компьютер.html"
+    },
+    {
+        "id": 336,
+        "name": "i7-12700F 32GB 1TB SSD M.2 NVME RTX3060 12GB WIN11Pro",
+        "price": 1179.81,
+        "link": "https://www.rdveikals.lv/products/ru/148/689322/sort/5/filter/0_0_0_0/i7-12700F-32GB-1TB-SSD-M.2-NVME-RTX3060-12GB-WIN11Pro-компьютер.html"
+    },
+    {
+        "id": 337,
+        "name": "AQUA Ryzen 5 7600X 32GB DDR5 2TB SSD+2TB RTX3060 12GB no-OS",
+        "price": 1179.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/746661/sort/5/filter/0_0_0_0/AQUA-Ryzen-5-7600X-32GB-DDR5-2TB-SSD-2TB-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 338,
+        "name": "AQUA Ryzen 5 7600X 16GB 1TB SSD RTX3060 12GB W11Pro",
+        "price": 1179.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/747124/sort/5/filter/0_0_0_0/AQUA-Ryzen-5-7600X-16GB-1TB-SSD-RTX3060-12GB-W11Pro-компьютер.html"
+    },
+    {
+        "id": 339,
+        "name": "AQUA Ryzen 7 7700X 32GB 500SSD+2TB RTX3060 12GB no-OS",
+        "price": 1179.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/761258/sort/5/filter/0_0_0_0/AQUA-Ryzen-7-7700X-32GB-500SSD-2TB-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 340,
+        "name": "AQUA i5-13400F 32GB 500SSD+2TB RTX3060 12GB W11Pro",
+        "price": 1179.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/770303/sort/5/filter/0_0_0_0/AQUA-i5-13400F-32GB-500SSD-2TB-RTX3060-12GB-W11Pro-компьютер.html"
+    },
+    {
+        "id": 341,
+        "name": "AQUA Ryzen 7 7700X 16GB 1 TB SSD RTX3060 12GB W11Home",
+        "price": 1182.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/767436/sort/5/filter/0_0_0_0/AQUA-Ryzen-7-7700X-16GB-1-TB-SSD-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 342,
+        "name": "AQUA Ryzen 5 7600X 32GB 500 SSD+2TB RTX3060 12GB W11Home",
+        "price": 1182.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/770326/sort/5/filter/0_0_0_0/AQUA-Ryzen-5-7600X-32GB-500-SSD-2TB-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 343,
+        "name": "AQUA Ryzen 7 7700X 32GB 2 TB SSD RTX3060 12GB no-OS",
+        "price": 1184.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/767013/sort/5/filter/0_0_0_0/AQUA-Ryzen-7-7700X-32GB-2-TB-SSD-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 344,
+        "name": "AQUA Ryzen 5 7600X 32GB 500SSD RTX3060 12GB W11Pro",
+        "price": 1184.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/770791/sort/5/filter/0_0_0_0/AQUA-Ryzen-5-7600X-32GB-500SSD-RTX3060-12GB-W11Pro-компьютер.html"
+    },
+    {
+        "id": 345,
+        "name": "i7-12700F 16GB 500SSD M.2 NVME+2TB RTX3060 12GB WIN11Pro",
+        "price": 1186.12,
+        "link": "https://www.rdveikals.lv/products/ru/148/689318/sort/5/filter/0_0_0_0/i7-12700F-16GB-500SSD-M.2-NVME-2TB-RTX3060-12GB-WIN11Pro-компьютер.html"
+    },
+    {
+        "id": 346,
+        "name": "AQUA i7-14700F 32GB 1TB SSD RTX3060 12GB no-OS",
+        "price": 1186.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/761465/sort/5/filter/0_0_0_0/AQUA-i7-14700F-32GB-1TB-SSD-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 347,
+        "name": "AQUA i7-14700F 16GB 500SSD+2TB RTX3060 12GB no-OS",
+        "price": 1186.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/761467/sort/5/filter/0_0_0_0/AQUA-i7-14700F-16GB-500SSD-2TB-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 348,
+        "name": "AQUA Ryzen 7 7700X 32GB 1 TB SSD+2TB RTX3060 12GB no-OS",
+        "price": 1187.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/767433/sort/5/filter/0_0_0_0/AQUA-Ryzen-7-7700X-32GB-1-TB-SSD-2TB-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 349,
+        "name": "AQUA Ryzen 5 7600X 32GB 500SSD+2TB RTX3060 12GB W11Home",
+        "price": 1196.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/747120/sort/5/filter/0_0_0_0/AQUA-Ryzen-5-7600X-32GB-500SSD-2TB-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 350,
+        "name": "AQUA Ryzen 7 7700X 16GB 1TB SSD RTX3060 12GB W11Home",
+        "price": 1196.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/761262/sort/5/filter/0_0_0_0/AQUA-Ryzen-7-7700X-16GB-1TB-SSD-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 351,
+        "name": "AQUA i5-13400F 32GB 2TB SSD+2TB RTX3060 12GB W11Home",
+        "price": 1196.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/770293/sort/5/filter/0_0_0_0/AQUA-i5-13400F-32GB-2TB-SSD-2TB-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 352,
+        "name": "AQUA Ryzen 5 7600X 32GB 500SSD RTX3060 12GB W11Pro",
+        "price": 1198.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/747126/sort/5/filter/0_0_0_0/AQUA-Ryzen-5-7600X-32GB-500SSD-RTX3060-12GB-W11Pro-компьютер.html"
+    },
+    {
+        "id": 353,
+        "name": "AQUA Ryzen 7 7700X 32GB 2TB SSD RTX3060 12GB no-OS",
+        "price": 1198.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/747140/sort/5/filter/0_0_0_0/AQUA-Ryzen-7-7700X-32GB-2TB-SSD-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 354,
+        "name": "AQUA i5-13400F 32GB 2TB SSD RTX3060 12GB W11Pro",
+        "price": 1198.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/770299/sort/5/filter/0_0_0_0/AQUA-i5-13400F-32GB-2TB-SSD-RTX3060-12GB-W11Pro-компьютер.html"
+    },
+    {
+        "id": 355,
+        "name": "AQUA Ryzen 7 7700X 32GB 1TB SSD+2TB RTX3060 12GB no-OS",
+        "price": 1201.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/761259/sort/5/filter/0_0_0_0/AQUA-Ryzen-7-7700X-32GB-1TB-SSD-2TB-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 356,
+        "name": "AQUA Ryzen 7 7700X 32GB 500 SSD RTX3060 12GB W11Home",
+        "price": 1201.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/767438/sort/5/filter/0_0_0_0/AQUA-Ryzen-7-7700X-32GB-500-SSD-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 357,
+        "name": "AQUA i5-13400F 32GB 1TB SSD+2TB RTX3060 12GB W11Pro",
+        "price": 1201.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/770304/sort/5/filter/0_0_0_0/AQUA-i5-13400F-32GB-1TB-SSD-2TB-RTX3060-12GB-W11Pro-компьютер.html"
+    },
+    {
+        "id": 358,
+        "name": "AQUA Ryzen 5 7600X 32GB 2 TB SSD RTX3060 12GB W11Home",
+        "price": 1201.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/770322/sort/5/filter/0_0_0_0/AQUA-Ryzen-5-7600X-32GB-2-TB-SSD-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 359,
+        "name": "AQUA Ryzen 5 7600X 32GB 1 TB SSD+2TB RTX3060 12GB W11Home",
+        "price": 1204.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/770327/sort/5/filter/0_0_0_0/AQUA-Ryzen-5-7600X-32GB-1-TB-SSD-2TB-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 360,
+        "name": "AQUA i7-14700F 16GB 2TB SSD RTX3060 12GB no-OS",
+        "price": 1206.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/761463/sort/5/filter/0_0_0_0/AQUA-i7-14700F-16GB-2TB-SSD-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 361,
+        "name": "AQUA Ryzen 7 7700X 16GB 2 TB SSD+2TB RTX3060 12GB no-OS",
+        "price": 1207.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/767431/sort/5/filter/0_0_0_0/AQUA-Ryzen-7-7700X-16GB-2-TB-SSD-2TB-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 362,
+        "name": "AQUA Ryzen 5 7600X 32GB 1 TB SSD RTX3060 12GB W11Pro",
+        "price": 1207.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/770792/sort/5/filter/0_0_0_0/AQUA-Ryzen-5-7600X-32GB-1-TB-SSD-RTX3060-12GB-W11Pro-компьютер.html"
+    },
+    {
+        "id": 363,
+        "name": "AQUA Ryzen 5 7600X 16GB 500 SSD+2TB RTX3060 12GB W11Pro",
+        "price": 1207.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/770794/sort/5/filter/0_0_0_0/AQUA-Ryzen-5-7600X-16GB-500-SSD-2TB-RTX3060-12GB-W11Pro-компьютер.html"
+    },
+    {
+        "id": 364,
+        "name": "i7-12700F 16GB 1TB SSD M.2 NVME+2TB RTX3060 12GB WIN11Pro",
+        "price": 1208.36,
+        "link": "https://www.rdveikals.lv/products/ru/148/689319/sort/5/filter/0_0_0_0/i7-12700F-16GB-1TB-SSD-M.2-NVME-2TB-RTX3060-12GB-WIN11Pro-компьютер.html"
+    },
+    {
+        "id": 365,
+        "name": "AQUA i7-14700F 16GB 1TB SSD+2TB RTX3060 12GB no-OS",
+        "price": 1208.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/761468/sort/5/filter/0_0_0_0/AQUA-i7-14700F-16GB-1TB-SSD-2TB-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 366,
+        "name": "i7-12700F 32GB 250SSD M.2 NVME+2TB RTX3060 12GB WIN11Pro",
+        "price": 1209.01,
+        "link": "https://www.rdveikals.lv/products/ru/148/689323/sort/5/filter/0_0_0_0/i7-12700F-32GB-250SSD-M.2-NVME-2TB-RTX3060-12GB-WIN11Pro-компьютер.html"
+    },
+    {
+        "id": 367,
+        "name": "AQUA Ryzen 5 7600X 32GB 2TB SSD RTX3060 12GB W11Home",
+        "price": 1216.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/747116/sort/5/filter/0_0_0_0/AQUA-Ryzen-5-7600X-32GB-2TB-SSD-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 368,
+        "name": "AQUA Ryzen 7 7700X 32GB 500SSD RTX3060 12GB W11Home",
+        "price": 1216.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/761264/sort/5/filter/0_0_0_0/AQUA-Ryzen-7-7700X-32GB-500SSD-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 369,
+        "name": "AQUA Ryzen 5 7600X 32GB 1TB SSD+2TB RTX3060 12GB W11Home",
+        "price": 1218.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/747121/sort/5/filter/0_0_0_0/AQUA-Ryzen-5-7600X-32GB-1TB-SSD-2TB-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 370,
+        "name": "AQUA Ryzen 5 7600X 32GB 2 TB SSD+2TB RTX3060 12GB W11Home",
+        "price": 1267.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/770787/sort/5/filter/0_0_0_0/AQUA-Ryzen-5-7600X-32GB-2-TB-SSD-2TB-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 371,
+        "name": "AQUA Ryzen 7 7700X 32GB 500 SSD RTX3060 12GB W11Pro",
+        "price": 1269.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/767450/sort/5/filter/0_0_0_0/AQUA-Ryzen-7-7700X-32GB-500-SSD-RTX3060-12GB-W11Pro-компьютер.html"
+    },
+    {
+        "id": 372,
+        "name": "AQUA Ryzen 5 7600X 32GB 2 TB SSD RTX3060 12GB W11Pro",
+        "price": 1269.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/770793/sort/5/filter/0_0_0_0/AQUA-Ryzen-5-7600X-32GB-2-TB-SSD-RTX3060-12GB-W11Pro-компьютер.html"
+    },
+    {
+        "id": 373,
+        "name": "AQUA i7-14700F 16GB 2TB SSD+2TB RTX3060 12GB no-OS",
+        "price": 1271.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/761469/sort/5/filter/0_0_0_0/AQUA-i7-14700F-16GB-2TB-SSD-2TB-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 374,
+        "name": "AQUA Ryzen 5 7600X 32GB 1 TB SSD+2TB RTX3060 12GB W11Pro",
+        "price": 1272.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/770798/sort/5/filter/0_0_0_0/AQUA-Ryzen-5-7600X-32GB-1-TB-SSD-2TB-RTX3060-12GB-W11Pro-компьютер.html"
+    },
+    {
+        "id": 375,
+        "name": "AQUA Ryzen 5 7600X 32GB 2TB SSD+2TB RTX3060 12GB W11Home",
+        "price": 1281.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/747122/sort/5/filter/0_0_0_0/AQUA-Ryzen-5-7600X-32GB-2TB-SSD-2TB-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 376,
+        "name": "AQUA Ryzen 7 7700X 32GB 500SSD+2TB RTX3060 12GB W11Home",
+        "price": 1281.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/761270/sort/5/filter/0_0_0_0/AQUA-Ryzen-7-7700X-32GB-500SSD-2TB-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 377,
+        "name": "AQUA Ryzen 5 7600X 32GB 2TB SSD RTX3060 12GB W11Pro",
+        "price": 1283.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/747128/sort/5/filter/0_0_0_0/AQUA-Ryzen-5-7600X-32GB-2TB-SSD-RTX3060-12GB-W11Pro-компьютер.html"
+    },
+    {
+        "id": 378,
+        "name": "AQUA Ryzen 7 7700X 32GB 500SSD RTX3060 12GB W11Pro",
+        "price": 1283.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/761276/sort/5/filter/0_0_0_0/AQUA-Ryzen-7-7700X-32GB-500SSD-RTX3060-12GB-W11Pro-компьютер.html"
+    },
+    {
+        "id": 379,
+        "name": "AQUA Ryzen 5 7600X 32GB 1TB SSD+2TB RTX3060 12GB W11Pro",
+        "price": 1286.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/747133/sort/5/filter/0_0_0_0/AQUA-Ryzen-5-7600X-32GB-1TB-SSD-2TB-RTX3060-12GB-W11Pro-компьютер.html"
+    },
+    {
+        "id": 380,
+        "name": "AQUA Ryzen 7 7700X 32GB 2 TB SSD RTX3060 12GB W11Home",
+        "price": 1286.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/767440/sort/5/filter/0_0_0_0/AQUA-Ryzen-7-7700X-32GB-2-TB-SSD-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 381,
+        "name": "AQUA i7-14700F 32GB 1TB SSD RTX3060 12GB W11Home",
+        "price": 1288.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/761477/sort/5/filter/0_0_0_0/AQUA-i7-14700F-32GB-1TB-SSD-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 382,
+        "name": "AQUA i7-14700F 16GB 500SSD+2TB RTX3060 12GB W11Home",
+        "price": 1288.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/761479/sort/5/filter/0_0_0_0/AQUA-i7-14700F-16GB-500SSD-2TB-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 383,
+        "name": "AQUA Ryzen 7 7700X 32GB 1 TB SSD+2TB RTX3060 12GB W11Home",
+        "price": 1289.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/767445/sort/5/filter/0_0_0_0/AQUA-Ryzen-7-7700X-32GB-1-TB-SSD-2TB-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 384,
+        "name": "AQUA i7-14700F 16GB 500SSD RTX3060 12GB W11Pro",
+        "price": 1290.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/761485/sort/5/filter/0_0_0_0/AQUA-i7-14700F-16GB-500SSD-RTX3060-12GB-W11Pro-компьютер.html"
+    },
+    {
+        "id": 385,
+        "name": "AQUA Ryzen 7 7700X 32GB 1 TB SSD RTX3060 12GB W11Pro",
+        "price": 1292.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/767451/sort/5/filter/0_0_0_0/AQUA-Ryzen-7-7700X-32GB-1-TB-SSD-RTX3060-12GB-W11Pro-компьютер.html"
+    },
+    {
+        "id": 386,
+        "name": "AQUA Ryzen 7 7700X 16GB 500 SSD+2TB RTX3060 12GB W11Pro",
+        "price": 1292.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/767453/sort/5/filter/0_0_0_0/AQUA-Ryzen-7-7700X-16GB-500-SSD-2TB-RTX3060-12GB-W11Pro-компьютер.html"
+    },
+    {
+        "id": 387,
+        "name": "AQUA Ryzen 5 7600X 16GB 2 TB SSD+2TB RTX3060 12GB W11Pro",
+        "price": 1292.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/770796/sort/5/filter/0_0_0_0/AQUA-Ryzen-5-7600X-16GB-2-TB-SSD-2TB-RTX3060-12GB-W11Pro-компьютер.html"
+    },
+    {
+        "id": 388,
+        "name": "AQUA i5-13400F 16GB 2TB SSD+2TB RTX3060 12GB W11Home",
+        "price": 1153.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/770290/sort/5/filter/0_0_0_0/AQUA-i5-13400F-16GB-2TB-SSD-2TB-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 389,
+        "name": "i7-12700F 32GB 500SSD M.2 NVME+2TB RTX3060 12GB WIN11",
+        "price": 1154.98,
+        "link": "https://www.rdveikals.lv/products/ru/148/689256/sort/5/filter/0_0_0_0/i7-12700F-32GB-500SSD-M.2-NVME-2TB-RTX3060-12GB-WIN11-компьютер.html"
+    },
+    {
+        "id": 390,
+        "name": "AQUA Ryzen 5 7600X 16GB 500SSD RTX3060 12GB W11Pro",
+        "price": 1156.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/747123/sort/5/filter/0_0_0_0/AQUA-Ryzen-5-7600X-16GB-500SSD-RTX3060-12GB-W11Pro-компьютер.html"
+    },
+    {
+        "id": 391,
+        "name": "AQUA Ryzen 7 7700X 16GB 2TB SSD RTX3060 12GB no-OS",
+        "price": 1156.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/747137/sort/5/filter/0_0_0_0/AQUA-Ryzen-7-7700X-16GB-2TB-SSD-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 392,
+        "name": "AQUA i5-13400F 16GB 2TB SSD RTX3060 12GB W11Pro",
+        "price": 1156.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/770296/sort/5/filter/0_0_0_0/AQUA-i5-13400F-16GB-2TB-SSD-RTX3060-12GB-W11Pro-компьютер.html"
+    },
+    {
+        "id": 393,
+        "name": "i7-12700F 32GB 500SSD M.2 NVME RTX3060 12GB WIN11Pro",
+        "price": 1157.56,
+        "link": "https://www.rdveikals.lv/products/ru/148/689321/sort/5/filter/0_0_0_0/i7-12700F-32GB-500SSD-M.2-NVME-RTX3060-12GB-WIN11Pro-компьютер.html"
+    },
+    {
+        "id": 394,
+        "name": "AQUA Ryzen 7 7700X 16GB 1TB SSD+2TB RTX3060 12GB no-OS",
+        "price": 1159.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/747142/sort/5/filter/0_0_0_0/AQUA-Ryzen-7-7700X-16GB-1TB-SSD-2TB-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 395,
+        "name": "AQUA Ryzen 7 7700X 16GB 500 SSD RTX3060 12GB W11Home",
+        "price": 1159.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/767435/sort/5/filter/0_0_0_0/AQUA-Ryzen-7-7700X-16GB-500-SSD-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 396,
+        "name": "AQUA i5-13400F 16GB 1TB SSD+2TB RTX3060 12GB W11Pro",
+        "price": 1159.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/770301/sort/5/filter/0_0_0_0/AQUA-i5-13400F-16GB-1TB-SSD-2TB-RTX3060-12GB-W11Pro-компьютер.html"
+    },
+    {
+        "id": 397,
+        "name": "AQUA Ryzen 5 7600X 16GB 2 TB SSD RTX3060 12GB W11Home",
+        "price": 1159.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/770320/sort/5/filter/0_0_0_0/AQUA-Ryzen-5-7600X-16GB-2-TB-SSD-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 398,
+        "name": "AQUA Ryzen 5 7600X 16GB 1 TB SSD+2TB RTX3060 12GB W11Home",
+        "price": 1162.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/770324/sort/5/filter/0_0_0_0/AQUA-Ryzen-5-7600X-16GB-1-TB-SSD-2TB-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 399,
+        "name": "AQUA i7-14700F 32GB 500SSD RTX3060 12GB no-OS",
+        "price": 1163.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/761464/sort/5/filter/0_0_0_0/AQUA-i7-14700F-32GB-500SSD-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 400,
+        "name": "AQUA Ryzen 7 7700X 32GB 500 SSD+2TB RTX3060 12GB no-OS",
+        "price": 1164.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/767432/sort/5/filter/0_0_0_0/AQUA-Ryzen-7-7700X-32GB-500-SSD-2TB-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 401,
+        "name": "AQUA Ryzen 5 7600X 32GB 2TB SSD+2TB RTX3060 12GB no-OS",
+        "price": 1164.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/770317/sort/5/filter/0_0_0_0/AQUA-Ryzen-5-7600X-32GB-2TB-SSD-2TB-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 402,
+        "name": "AQUA Ryzen 5 7600X 16GB 1 TB SSD RTX3060 12GB W11Pro",
+        "price": 1164.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/770789/sort/5/filter/0_0_0_0/AQUA-Ryzen-5-7600X-16GB-1-TB-SSD-RTX3060-12GB-W11Pro-компьютер.html"
+    },
+    {
+        "id": 403,
+        "name": "i7-12700F 16GB 250SSD M.2 NVME+2TB RTX3060 12GB WIN11Pro",
+        "price": 1173.6,
+        "link": "https://www.rdveikals.lv/products/ru/148/689317/sort/5/filter/0_0_0_0/i7-12700F-16GB-250SSD-M.2-NVME-2TB-RTX3060-12GB-WIN11Pro-компьютер.html"
+    },
+    {
+        "id": 404,
+        "name": "AQUA Ryzen 5 7600X 16GB 2TB SSD RTX3060 12GB W11Home",
+        "price": 1173.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/747113/sort/5/filter/0_0_0_0/AQUA-Ryzen-5-7600X-16GB-2TB-SSD-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 405,
+        "name": "AQUA Ryzen 7 7700X 16GB 500SSD RTX3060 12GB W11Home",
+        "price": 1173.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/761261/sort/5/filter/0_0_0_0/AQUA-Ryzen-7-7700X-16GB-500SSD-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 406,
+        "name": "Ryzen 5 5600X 32GB 1TB SSD+2TB RTX3060 12GB W11Pro",
+        "price": 1047.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/746253/sort/5/filter/0_0_0_0/Ryzen-5-5600X-32GB-1TB-SSD-2TB-RTX3060-12GB-W11Pro-компьютер.html"
+    },
+    {
+        "id": 407,
+        "name": "AQUA Ryzen 5 7600X 32GB DDR5 1TB SSD RTX3060 12GB no-OS",
+        "price": 1051.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/746654/sort/5/filter/0_0_0_0/AQUA-Ryzen-5-7600X-32GB-DDR5-1TB-SSD-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 408,
+        "name": "AQUA Ryzen 5 7600X 16GB DDR5 500SSD+2TB RTX3060 12GB no-OS",
+        "price": 1051.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/746656/sort/5/filter/0_0_0_0/AQUA-Ryzen-5-7600X-16GB-DDR5-500SSD-2TB-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 409,
+        "name": "AQUA i5-13400F 16GB 2TB SSD+2TB RTX3060 12GB no-OS",
+        "price": 1051.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/770278/sort/5/filter/0_0_0_0/AQUA-i5-13400F-16GB-2TB-SSD-2TB-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 410,
+        "name": "i7-12700F 32GB 500SSD M.2 NVME+2TB RTX3060 12GB no-OS",
+        "price": 1054.67,
+        "link": "https://www.rdveikals.lv/products/ru/148/689228/sort/5/filter/0_0_0_0/i7-12700F-32GB-500SSD-M.2-NVME-2TB-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 411,
+        "name": "i7-12700F 16GB 500SSD M.2 NVME RTX3060 12GB WIN11",
+        "price": 1055.62,
+        "link": "https://www.rdveikals.lv/products/ru/148/689247/sort/5/filter/0_0_0_0/i7-12700F-16GB-500SSD-M.2-NVME-RTX3060-12GB-WIN11-компьютер.html"
+    },
+    {
+        "id": 412,
+        "name": "AQUA Ryzen 7 7700X 16GB 500 SSD RTX3060 12GB no-OS",
+        "price": 1057.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/767008/sort/5/filter/0_0_0_0/AQUA-Ryzen-7-7700X-16GB-500-SSD-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 413,
+        "name": "AQUA Ryzen 5 7600X 16GB 2TB SSD RTX3060 12GB no-OS",
+        "price": 1057.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/770308/sort/5/filter/0_0_0_0/AQUA-Ryzen-5-7600X-16GB-2TB-SSD-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 414,
+        "name": "AQUA Ryzen 5 7600X 16GB 1TB SSD+2TB RTX3060 12GB no-OS",
+        "price": 1060.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/770313/sort/5/filter/0_0_0_0/AQUA-Ryzen-5-7600X-16GB-1TB-SSD-2TB-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 415,
+        "name": "Ryzen 7 5700X 16GB 1TB SSD M.2 NVME+2TB RTX3060 12GB WIN11Pro",
+        "price": 1062.36,
+        "link": "https://www.rdveikals.lv/products/ru/148/689330/sort/5/filter/0_0_0_0/Ryzen-7-5700X-16GB-1TB-SSD-M.2-NVME-2TB-RTX3060-12GB-WIN11Pro-компьютер.html"
+    },
+    {
+        "id": 416,
+        "name": "Ryzen 7 5700X 32GB 250SSD M.2 NVME+2TB RTX3060 12GB WIN11Pro",
+        "price": 1063.02,
+        "link": "https://www.rdveikals.lv/products/ru/148/689334/sort/5/filter/0_0_0_0/Ryzen-7-5700X-32GB-250SSD-M.2-NVME-2TB-RTX3060-12GB-WIN11Pro-компьютер.html"
+    },
+    {
+        "id": 417,
+        "name": "AQUA i5-13400F 32GB 1TB SSD RTX3060 12GB W11Home",
+        "price": 1068.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/770286/sort/5/filter/0_0_0_0/AQUA-i5-13400F-32GB-1TB-SSD-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 418,
+        "name": "AQUA i5-13400F 16GB 500SSD+2TB RTX3060 12GB W11Home",
+        "price": 1068.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/770288/sort/5/filter/0_0_0_0/AQUA-i5-13400F-16GB-500SSD-2TB-RTX3060-12GB-W11Home-компьютер.html"
+    },
+    {
+        "id": 419,
+        "name": "AQUA Ryzen 5 7600X 16GB DDR5 2TB SSD RTX3060 12GB no-OS",
+        "price": 1071.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/746652/sort/5/filter/0_0_0_0/AQUA-Ryzen-5-7600X-16GB-DDR5-2TB-SSD-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 420,
+        "name": "AQUA Ryzen 7 7700X 16GB 500SSD RTX3060 12GB no-OS",
+        "price": 1071.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/747135/sort/5/filter/0_0_0_0/AQUA-Ryzen-7-7700X-16GB-500SSD-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 421,
+        "name": "AQUA i5-13400F 16GB 500SSD RTX3060 12GB W11Pro",
+        "price": 1071.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/770294/sort/5/filter/0_0_0_0/AQUA-i5-13400F-16GB-500SSD-RTX3060-12GB-W11Pro-компьютер.html"
+    },
+    {
+        "id": 422,
+        "name": "AQUA Ryzen 5 7600X 16GB DDR5 1TB SSD+2TB RTX3060 12GB no-OS",
+        "price": 1074.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/746657/sort/5/filter/0_0_0_0/AQUA-Ryzen-5-7600X-16GB-DDR5-1TB-SSD-2TB-RTX3060-12GB-no-OS-компьютер.html"
+    },
+    {
+        "id": 423,
+        "name": "AQUA Ryzen 5 7600X 16GB 500 SSD RTX3060 12GB W11Home",
+        "price": 1074.99,
+        "link": "https://www.rdveikals.lv/products/ru/148/770318/sort/5/filter/0_0_0_0/AQUA-Ryzen-5-7600X-16GB-500-SSD-RTX3060-12GB-W11Home-компьютер.html"
+    }
+]
