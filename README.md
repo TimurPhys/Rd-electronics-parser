@@ -8,4 +8,7 @@ After that you are also suggested to store all the data in **Excel table**.
 
 In folder example you can find an example of parser's work
 
+## **15.06.2025**
+Was added an **main_async.py** file, which works much faster, because uses async logic^)
+
 _**Enjoy!**_
